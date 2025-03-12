@@ -1,0 +1,5001 @@
+emotion,text,predicted_emotion
+neutral,I am okay.,neutral
+surprise,I can't believe it!,surprise
+sad,I miss you so much.,sad
+fear,My heart is racing!,fear
+surprise,I can't believe it!,surprise
+neutral,I am okay.,neutral
+fear,My heart is racing!,fear
+angry,Stop annoying me!,angry
+disgust,This is the worst thing ever.,disgust
+surprise,That's unbelievable!,surprise
+fear,My heart is racing!,fear
+neutral,Nothing much to say.,sad
+angry,I am furious right now!,angry
+neutral,Feeling neutral about this.,neutral
+neutral,It's an average experience.,neutral
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+happy,So happy to see you!,happy
+happy,What a beautiful day!,happy
+fear,I don't know what to do!,fear
+sad,I am feeling blue.,sad
+disgust,This is so gross!,disgust
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+angry,Stop annoying me!,angry
+angry,I can't stand this!,angry
+surprise,I am totally shocked!,surprise
+sad,I miss you so much.,sad
+angry,I can't stand this!,angry
+disgust,Absolutely disgusting!,disgust
+sad,I feel so down.,sad
+angry,This makes me so mad!,angry
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+surprise,This is amazing!,surprise
+happy,Feeling great today!,happy
+disgust,This is so gross!,disgust
+fear,I am really scared.,fear
+angry,This is unacceptable!,angry
+fear,I am feeling anxious.,fear
+disgust,I can't stand the smell.,disgust
+neutral,It's an average experience.,neutral
+happy,What a beautiful day!,happy
+neutral,Just another normal day.,neutral
+neutral,It's an average experience.,neutral
+sad,Nothing is going right.,sad
+sad,This is heartbreaking.,sad
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+fear,My heart is racing!,fear
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+surprise,That's unbelievable!,surprise
+neutral,It's an average experience.,neutral
+neutral,Nothing much to say.,sad
+fear,I don't know what to do!,fear
+angry,This is unacceptable!,angry
+happy,Best day ever!,happy
+angry,I can't stand this!,angry
+disgust,I can't stand the smell.,disgust
+fear,I am feeling anxious.,fear
+neutral,I am okay.,neutral
+angry,I can't stand this!,angry
+disgust,This is so gross!,disgust
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+fear,This is terrifying.,fear
+neutral,Just another normal day.,neutral
+surprise,I can't believe it!,surprise
+disgust,Absolutely disgusting!,disgust
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+fear,I am really scared.,fear
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+happy,Best day ever!,happy
+surprise,I can't believe it!,surprise
+disgust,This is so gross!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+sad,Nothing is going right.,sad
+disgust,This is the worst thing ever.,disgust
+neutral,It's an average experience.,neutral
+surprise,I can't believe it!,surprise
+happy,Feeling great today!,happy
+neutral,It's an average experience.,neutral
+happy,I love this!,happy
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+happy,Feeling great today!,happy
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+surprise,This is amazing!,surprise
+disgust,This is the worst thing ever.,disgust
+sad,Nothing is going right.,sad
+sad,I feel so down.,sad
+happy,So happy to see you!,happy
+surprise,That's unbelievable!,surprise
+disgust,This is the worst thing ever.,disgust
+angry,I can't stand this!,angry
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+sad,I feel so down.,sad
+surprise,"Wow, I didn't expect that!",surprise
+surprise,I can't believe it!,surprise
+angry,I can't stand this!,angry
+neutral,I am okay.,neutral
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+sad,I feel so down.,sad
+angry,I am furious right now!,angry
+disgust,I can't stand the smell.,disgust
+sad,I am feeling blue.,sad
+disgust,Absolutely disgusting!,disgust
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+angry,This is unacceptable!,angry
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+sad,Nothing is going right.,sad
+surprise,I can't believe it!,surprise
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+neutral,Just another normal day.,neutral
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+sad,I miss you so much.,sad
+fear,My heart is racing!,fear
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+sad,I feel so down.,sad
+sad,I feel so down.,sad
+disgust,I can't stand the smell.,disgust
+angry,This is unacceptable!,angry
+sad,I am feeling blue.,sad
+happy,I love this!,happy
+neutral,Just another normal day.,neutral
+angry,Stop annoying me!,angry
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+neutral,It's an average experience.,neutral
+happy,Feeling great today!,happy
+surprise,That's unbelievable!,surprise
+fear,I don't know what to do!,fear
+happy,Feeling great today!,happy
+angry,This makes me so mad!,angry
+disgust,This is the worst thing ever.,disgust
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+fear,My heart is racing!,fear
+angry,This is unacceptable!,angry
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+happy,Feeling great today!,happy
+surprise,That's unbelievable!,surprise
+happy,I love this!,happy
+disgust,I feel sick looking at this.,disgust
+neutral,It's an average experience.,neutral
+disgust,This is the worst thing ever.,disgust
+disgust,I can't stand the smell.,disgust
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+happy,Best day ever!,happy
+fear,I am really scared.,fear
+sad,I miss you so much.,sad
+happy,Best day ever!,happy
+fear,I am feeling anxious.,fear
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+neutral,It's an average experience.,neutral
+disgust,Absolutely disgusting!,disgust
+happy,So happy to see you!,happy
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+neutral,Nothing much to say.,sad
+angry,This is unacceptable!,angry
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+happy,I love this!,happy
+happy,What a beautiful day!,happy
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+happy,Best day ever!,happy
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+happy,So happy to see you!,happy
+sad,I miss you so much.,sad
+disgust,I can't stand the smell.,disgust
+disgust,Absolutely disgusting!,disgust
+happy,What a beautiful day!,happy
+sad,I am feeling blue.,sad
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+surprise,I am totally shocked!,surprise
+surprise,I can't believe it!,surprise
+disgust,This is the worst thing ever.,disgust
+angry,I can't stand this!,angry
+disgust,Absolutely disgusting!,disgust
+sad,I miss you so much.,sad
+happy,Best day ever!,happy
+disgust,I can't stand the smell.,disgust
+fear,I am feeling anxious.,fear
+angry,Stop annoying me!,angry
+disgust,I feel sick looking at this.,disgust
+surprise,I can't believe it!,surprise
+angry,I can't stand this!,angry
+disgust,I can't stand the smell.,disgust
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+disgust,I feel sick looking at this.,disgust
+disgust,This is the worst thing ever.,disgust
+disgust,This is the worst thing ever.,disgust
+fear,I am feeling anxious.,fear
+surprise,That's unbelievable!,surprise
+angry,This is unacceptable!,angry
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+happy,Feeling great today!,happy
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+sad,I miss you so much.,sad
+disgust,I can't stand the smell.,disgust
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+surprise,I am totally shocked!,surprise
+sad,This is heartbreaking.,sad
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+neutral,Feeling neutral about this.,neutral
+surprise,This is amazing!,surprise
+fear,My heart is racing!,fear
+happy,Best day ever!,happy
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+surprise,That's unbelievable!,surprise
+happy,Best day ever!,happy
+angry,Stop annoying me!,angry
+fear,My heart is racing!,fear
+disgust,This is so gross!,disgust
+sad,I miss you so much.,sad
+fear,I am feeling anxious.,fear
+disgust,Absolutely disgusting!,disgust
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+angry,This makes me so mad!,angry
+fear,This is terrifying.,fear
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+disgust,I feel sick looking at this.,disgust
+happy,So happy to see you!,happy
+disgust,This is the worst thing ever.,disgust
+disgust,This is so gross!,disgust
+fear,This is terrifying.,fear
+surprise,This is amazing!,surprise
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+surprise,I am totally shocked!,surprise
+fear,This is terrifying.,fear
+neutral,I am okay.,neutral
+angry,Stop annoying me!,angry
+angry,I am furious right now!,angry
+disgust,This is so gross!,disgust
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+fear,I am really scared.,fear
+happy,What a beautiful day!,happy
+disgust,This is the worst thing ever.,disgust
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+happy,What a beautiful day!,happy
+neutral,Just another normal day.,neutral
+sad,I miss you so much.,sad
+happy,Best day ever!,happy
+angry,Stop annoying me!,angry
+neutral,I am okay.,neutral
+angry,I can't stand this!,angry
+fear,This is terrifying.,fear
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+fear,My heart is racing!,fear
+disgust,Absolutely disgusting!,disgust
+disgust,This is so gross!,disgust
+sad,Nothing is going right.,sad
+sad,I miss you so much.,sad
+fear,My heart is racing!,fear
+happy,Feeling great today!,happy
+angry,This is unacceptable!,angry
+neutral,Just another normal day.,neutral
+sad,Nothing is going right.,sad
+neutral,Nothing much to say.,sad
+happy,Best day ever!,happy
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+fear,I am feeling anxious.,fear
+angry,Stop annoying me!,angry
+sad,This is heartbreaking.,sad
+happy,So happy to see you!,happy
+disgust,This is the worst thing ever.,disgust
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+neutral,It's an average experience.,neutral
+surprise,This is amazing!,surprise
+surprise,That's unbelievable!,surprise
+neutral,Nothing much to say.,sad
+sad,I am feeling blue.,sad
+surprise,That's unbelievable!,surprise
+surprise,That's unbelievable!,surprise
+sad,Nothing is going right.,sad
+surprise,This is amazing!,surprise
+neutral,Nothing much to say.,sad
+angry,I can't stand this!,angry
+surprise,I can't believe it!,surprise
+disgust,This is the worst thing ever.,disgust
+happy,So happy to see you!,happy
+surprise,This is amazing!,surprise
+neutral,Feeling neutral about this.,neutral
+neutral,Just another normal day.,neutral
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+fear,I am feeling anxious.,fear
+surprise,This is amazing!,surprise
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+angry,I can't stand this!,angry
+angry,I can't stand this!,angry
+happy,So happy to see you!,happy
+neutral,Just another normal day.,neutral
+neutral,Nothing much to say.,sad
+disgust,I feel sick looking at this.,disgust
+angry,I can't stand this!,angry
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+angry,Stop annoying me!,angry
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+angry,I can't stand this!,angry
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I can't stand the smell.,disgust
+disgust,This is so gross!,disgust
+happy,Feeling great today!,happy
+fear,My heart is racing!,fear
+sad,I feel so down.,sad
+neutral,Feeling neutral about this.,neutral
+angry,Stop annoying me!,angry
+neutral,I am okay.,neutral
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+fear,This is terrifying.,fear
+surprise,I can't believe it!,surprise
+surprise,I can't believe it!,surprise
+neutral,I am okay.,neutral
+disgust,I can't stand the smell.,disgust
+sad,I miss you so much.,sad
+fear,This is terrifying.,fear
+fear,I am feeling anxious.,fear
+sad,This is heartbreaking.,sad
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is the worst thing ever.,disgust
+sad,Nothing is going right.,sad
+sad,I am feeling blue.,sad
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+disgust,Absolutely disgusting!,disgust
+sad,I am feeling blue.,sad
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+neutral,Nothing much to say.,sad
+fear,I am really scared.,fear
+disgust,Absolutely disgusting!,disgust
+fear,I don't know what to do!,fear
+neutral,I am okay.,neutral
+fear,I am feeling anxious.,fear
+fear,I am feeling anxious.,fear
+neutral,It's an average experience.,neutral
+sad,Nothing is going right.,sad
+angry,I can't stand this!,angry
+fear,I am really scared.,fear
+angry,This makes me so mad!,angry
+happy,Feeling great today!,happy
+fear,I am feeling anxious.,fear
+sad,I feel so down.,sad
+disgust,Absolutely disgusting!,disgust
+happy,What a beautiful day!,happy
+sad,I miss you so much.,sad
+neutral,Just another normal day.,neutral
+happy,What a beautiful day!,happy
+angry,This makes me so mad!,angry
+happy,Feeling great today!,happy
+sad,This is heartbreaking.,sad
+neutral,Just another normal day.,neutral
+disgust,This is so gross!,disgust
+fear,This is terrifying.,fear
+happy,I love this!,happy
+neutral,Feeling neutral about this.,neutral
+neutral,Feeling neutral about this.,neutral
+happy,What a beautiful day!,happy
+neutral,It's an average experience.,neutral
+angry,I am furious right now!,angry
+happy,Feeling great today!,happy
+disgust,I can't stand the smell.,disgust
+fear,This is terrifying.,fear
+happy,I love this!,happy
+surprise,This is amazing!,surprise
+neutral,Nothing much to say.,sad
+fear,My heart is racing!,fear
+fear,I don't know what to do!,fear
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+fear,I don't know what to do!,fear
+fear,I am feeling anxious.,fear
+fear,I am really scared.,fear
+sad,This is heartbreaking.,sad
+disgust,This is so gross!,disgust
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+neutral,I am okay.,neutral
+fear,I am really scared.,fear
+angry,This is unacceptable!,angry
+neutral,Just another normal day.,neutral
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+neutral,Nothing much to say.,sad
+disgust,This is the worst thing ever.,disgust
+angry,I am furious right now!,angry
+surprise,I am totally shocked!,surprise
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+sad,This is heartbreaking.,sad
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+neutral,Feeling neutral about this.,neutral
+disgust,This is the worst thing ever.,disgust
+sad,I am feeling blue.,sad
+disgust,I can't stand the smell.,disgust
+fear,I am really scared.,fear
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+happy,What a beautiful day!,happy
+sad,I am feeling blue.,sad
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+angry,I am furious right now!,angry
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+fear,I don't know what to do!,fear
+sad,I feel so down.,sad
+angry,This is unacceptable!,angry
+angry,This is unacceptable!,angry
+angry,Stop annoying me!,angry
+angry,Stop annoying me!,angry
+happy,I love this!,happy
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+angry,Stop annoying me!,angry
+neutral,Nothing much to say.,sad
+fear,I don't know what to do!,fear
+angry,I am furious right now!,angry
+neutral,It's an average experience.,neutral
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+fear,This is terrifying.,fear
+surprise,"Wow, I didn't expect that!",surprise
+happy,Feeling great today!,happy
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+sad,Nothing is going right.,sad
+disgust,This is the worst thing ever.,disgust
+surprise,I am totally shocked!,surprise
+neutral,Just another normal day.,neutral
+disgust,This is so gross!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+fear,I am really scared.,fear
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+fear,My heart is racing!,fear
+angry,This is unacceptable!,angry
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+sad,I feel so down.,sad
+angry,Stop annoying me!,angry
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+surprise,I can't believe it!,surprise
+neutral,Nothing much to say.,sad
+neutral,Just another normal day.,neutral
+surprise,I can't believe it!,surprise
+fear,I am really scared.,fear
+happy,Best day ever!,happy
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+surprise,That's unbelievable!,surprise
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+happy,What a beautiful day!,happy
+fear,I am really scared.,fear
+surprise,I am totally shocked!,surprise
+fear,I don't know what to do!,fear
+surprise,I am totally shocked!,surprise
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am really scared.,fear
+angry,Stop annoying me!,angry
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+disgust,Absolutely disgusting!,disgust
+happy,I love this!,happy
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+disgust,This is the worst thing ever.,disgust
+surprise,This is amazing!,surprise
+fear,I am feeling anxious.,fear
+fear,This is terrifying.,fear
+fear,I don't know what to do!,fear
+happy,So happy to see you!,happy
+angry,Stop annoying me!,angry
+angry,Stop annoying me!,angry
+sad,This is heartbreaking.,sad
+sad,I am feeling blue.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,I am furious right now!,angry
+angry,This makes me so mad!,angry
+angry,Stop annoying me!,angry
+surprise,I can't believe it!,surprise
+neutral,Feeling neutral about this.,neutral
+angry,I am furious right now!,angry
+sad,I miss you so much.,sad
+sad,This is heartbreaking.,sad
+happy,What a beautiful day!,happy
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+fear,This is terrifying.,fear
+fear,My heart is racing!,fear
+fear,I am feeling anxious.,fear
+fear,This is terrifying.,fear
+disgust,This is so gross!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Just another normal day.,neutral
+disgust,Absolutely disgusting!,disgust
+disgust,Absolutely disgusting!,disgust
+surprise,I am totally shocked!,surprise
+angry,This makes me so mad!,angry
+disgust,This is so gross!,disgust
+fear,My heart is racing!,fear
+sad,This is heartbreaking.,sad
+sad,This is heartbreaking.,sad
+disgust,This is the worst thing ever.,disgust
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+surprise,I am totally shocked!,surprise
+happy,I love this!,happy
+surprise,"Wow, I didn't expect that!",surprise
+surprise,I am totally shocked!,surprise
+fear,I am feeling anxious.,fear
+surprise,This is amazing!,surprise
+happy,I love this!,happy
+neutral,Nothing much to say.,sad
+surprise,That's unbelievable!,surprise
+disgust,This is the worst thing ever.,disgust
+fear,This is terrifying.,fear
+neutral,It's an average experience.,neutral
+happy,Best day ever!,happy
+sad,This is heartbreaking.,sad
+angry,I can't stand this!,angry
+happy,So happy to see you!,happy
+sad,Nothing is going right.,sad
+angry,This makes me so mad!,angry
+disgust,I feel sick looking at this.,disgust
+happy,I love this!,happy
+disgust,Absolutely disgusting!,disgust
+happy,What a beautiful day!,happy
+neutral,Just another normal day.,neutral
+happy,So happy to see you!,happy
+sad,Nothing is going right.,sad
+happy,Feeling great today!,happy
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+sad,I feel so down.,sad
+happy,I love this!,happy
+sad,Nothing is going right.,sad
+surprise,This is amazing!,surprise
+fear,I am feeling anxious.,fear
+fear,My heart is racing!,fear
+angry,This is unacceptable!,angry
+disgust,This is so gross!,disgust
+happy,What a beautiful day!,happy
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+surprise,This is amazing!,surprise
+neutral,Nothing much to say.,sad
+neutral,Feeling neutral about this.,neutral
+fear,I am really scared.,fear
+happy,I love this!,happy
+happy,What a beautiful day!,happy
+disgust,This is so gross!,disgust
+disgust,I feel sick looking at this.,disgust
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+surprise,"Wow, I didn't expect that!",surprise
+surprise,I can't believe it!,surprise
+disgust,This is the worst thing ever.,disgust
+fear,I don't know what to do!,fear
+sad,I feel so down.,sad
+fear,This is terrifying.,fear
+happy,Best day ever!,happy
+fear,I don't know what to do!,fear
+happy,Feeling great today!,happy
+surprise,That's unbelievable!,surprise
+sad,I miss you so much.,sad
+neutral,Just another normal day.,neutral
+disgust,I can't stand the smell.,disgust
+neutral,Nothing much to say.,sad
+neutral,Feeling neutral about this.,neutral
+neutral,I am okay.,neutral
+angry,This is unacceptable!,angry
+happy,I love this!,happy
+sad,This is heartbreaking.,sad
+happy,I love this!,happy
+neutral,Feeling neutral about this.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+fear,I don't know what to do!,fear
+surprise,This is amazing!,surprise
+sad,Nothing is going right.,sad
+angry,This is unacceptable!,angry
+disgust,This is so gross!,disgust
+happy,Feeling great today!,happy
+neutral,Just another normal day.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+neutral,Just another normal day.,neutral
+happy,What a beautiful day!,happy
+happy,What a beautiful day!,happy
+surprise,I am totally shocked!,surprise
+happy,I love this!,happy
+angry,I am furious right now!,angry
+happy,So happy to see you!,happy
+neutral,Nothing much to say.,sad
+angry,I am furious right now!,angry
+sad,I feel so down.,sad
+happy,What a beautiful day!,happy
+angry,I can't stand this!,angry
+surprise,I can't believe it!,surprise
+angry,This is unacceptable!,angry
+sad,I am feeling blue.,sad
+angry,This makes me so mad!,angry
+surprise,That's unbelievable!,surprise
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+happy,Best day ever!,happy
+fear,I am feeling anxious.,fear
+disgust,Absolutely disgusting!,disgust
+neutral,Just another normal day.,neutral
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+fear,I am really scared.,fear
+sad,I am feeling blue.,sad
+surprise,I can't believe it!,surprise
+sad,I am feeling blue.,sad
+fear,I am feeling anxious.,fear
+neutral,It's an average experience.,neutral
+happy,Best day ever!,happy
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+angry,This is unacceptable!,angry
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+angry,I can't stand this!,angry
+disgust,I can't stand the smell.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am feeling anxious.,fear
+angry,This makes me so mad!,angry
+happy,Feeling great today!,happy
+sad,I miss you so much.,sad
+neutral,Just another normal day.,neutral
+happy,So happy to see you!,happy
+neutral,Nothing much to say.,sad
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+fear,I am feeling anxious.,fear
+fear,My heart is racing!,fear
+neutral,It's an average experience.,neutral
+sad,Nothing is going right.,sad
+surprise,I am totally shocked!,surprise
+surprise,That's unbelievable!,surprise
+surprise,I am totally shocked!,surprise
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+surprise,That's unbelievable!,surprise
+surprise,That's unbelievable!,surprise
+angry,This is unacceptable!,angry
+neutral,Feeling neutral about this.,neutral
+surprise,I am totally shocked!,surprise
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+disgust,This is the worst thing ever.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+neutral,Just another normal day.,neutral
+happy,Best day ever!,happy
+surprise,"Wow, I didn't expect that!",surprise
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+happy,What a beautiful day!,happy
+fear,I don't know what to do!,fear
+neutral,It's an average experience.,neutral
+happy,So happy to see you!,happy
+fear,This is terrifying.,fear
+neutral,Just another normal day.,neutral
+happy,So happy to see you!,happy
+angry,Stop annoying me!,angry
+sad,Nothing is going right.,sad
+neutral,Nothing much to say.,sad
+surprise,I can't believe it!,surprise
+fear,I am feeling anxious.,fear
+fear,My heart is racing!,fear
+sad,I feel so down.,sad
+happy,Best day ever!,happy
+fear,I am feeling anxious.,fear
+sad,I miss you so much.,sad
+sad,Nothing is going right.,sad
+angry,I am furious right now!,angry
+sad,This is heartbreaking.,sad
+angry,I am furious right now!,angry
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+disgust,This is so gross!,disgust
+angry,I can't stand this!,angry
+happy,I love this!,happy
+sad,This is heartbreaking.,sad
+neutral,Feeling neutral about this.,neutral
+disgust,I can't stand the smell.,disgust
+surprise,I am totally shocked!,surprise
+neutral,It's an average experience.,neutral
+neutral,Nothing much to say.,sad
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+fear,This is terrifying.,fear
+angry,Stop annoying me!,angry
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+disgust,This is so gross!,disgust
+sad,Nothing is going right.,sad
+disgust,This is the worst thing ever.,disgust
+angry,I can't stand this!,angry
+surprise,I can't believe it!,surprise
+angry,I can't stand this!,angry
+surprise,That's unbelievable!,surprise
+sad,Nothing is going right.,sad
+surprise,"Wow, I didn't expect that!",surprise
+surprise,This is amazing!,surprise
+surprise,I am totally shocked!,surprise
+happy,What a beautiful day!,happy
+disgust,Absolutely disgusting!,disgust
+disgust,This is so gross!,disgust
+neutral,Nothing much to say.,sad
+angry,I can't stand this!,angry
+angry,Stop annoying me!,angry
+angry,This is unacceptable!,angry
+surprise,I can't believe it!,surprise
+fear,I am really scared.,fear
+happy,What a beautiful day!,happy
+surprise,That's unbelievable!,surprise
+happy,Best day ever!,happy
+surprise,That's unbelievable!,surprise
+sad,I am feeling blue.,sad
+happy,I love this!,happy
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I can't stand the smell.,disgust
+angry,This makes me so mad!,angry
+surprise,This is amazing!,surprise
+surprise,This is amazing!,surprise
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+happy,I love this!,happy
+surprise,This is amazing!,surprise
+sad,Nothing is going right.,sad
+disgust,This is the worst thing ever.,disgust
+happy,Best day ever!,happy
+surprise,"Wow, I didn't expect that!",surprise
+fear,This is terrifying.,fear
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+sad,This is heartbreaking.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,This makes me so mad!,angry
+neutral,I am okay.,neutral
+happy,I love this!,happy
+happy,What a beautiful day!,happy
+happy,What a beautiful day!,happy
+neutral,It's an average experience.,neutral
+happy,I love this!,happy
+surprise,This is amazing!,surprise
+neutral,I am okay.,neutral
+happy,Feeling great today!,happy
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Just another normal day.,neutral
+fear,I am really scared.,fear
+disgust,I can't stand the smell.,disgust
+surprise,I can't believe it!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+sad,This is heartbreaking.,sad
+disgust,I can't stand the smell.,disgust
+angry,This makes me so mad!,angry
+happy,Feeling great today!,happy
+happy,So happy to see you!,happy
+angry,I can't stand this!,angry
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is so gross!,disgust
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+surprise,That's unbelievable!,surprise
+happy,So happy to see you!,happy
+disgust,This is so gross!,disgust
+disgust,This is the worst thing ever.,disgust
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+disgust,This is the worst thing ever.,disgust
+happy,What a beautiful day!,happy
+angry,I am furious right now!,angry
+surprise,I can't believe it!,surprise
+disgust,This is so gross!,disgust
+neutral,Just another normal day.,neutral
+sad,Nothing is going right.,sad
+fear,My heart is racing!,fear
+neutral,I am okay.,neutral
+fear,My heart is racing!,fear
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+neutral,It's an average experience.,neutral
+angry,I can't stand this!,angry
+neutral,Nothing much to say.,sad
+sad,This is heartbreaking.,sad
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+disgust,I can't stand the smell.,disgust
+angry,I am furious right now!,angry
+surprise,I am totally shocked!,surprise
+neutral,It's an average experience.,neutral
+disgust,This is so gross!,disgust
+angry,This is unacceptable!,angry
+happy,So happy to see you!,happy
+happy,I love this!,happy
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+fear,I am really scared.,fear
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+happy,I love this!,happy
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+fear,I am feeling anxious.,fear
+surprise,"Wow, I didn't expect that!",surprise
+happy,Feeling great today!,happy
+fear,My heart is racing!,fear
+surprise,That's unbelievable!,surprise
+happy,Best day ever!,happy
+happy,So happy to see you!,happy
+surprise,This is amazing!,surprise
+angry,I am furious right now!,angry
+fear,My heart is racing!,fear
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+fear,My heart is racing!,fear
+surprise,I am totally shocked!,surprise
+fear,My heart is racing!,fear
+disgust,Absolutely disgusting!,disgust
+fear,This is terrifying.,fear
+neutral,It's an average experience.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+angry,This is unacceptable!,angry
+angry,This makes me so mad!,angry
+angry,This makes me so mad!,angry
+angry,This is unacceptable!,angry
+fear,I don't know what to do!,fear
+sad,I miss you so much.,sad
+neutral,It's an average experience.,neutral
+fear,My heart is racing!,fear
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+sad,I miss you so much.,sad
+fear,My heart is racing!,fear
+neutral,Nothing much to say.,sad
+fear,I am really scared.,fear
+fear,I don't know what to do!,fear
+fear,My heart is racing!,fear
+fear,My heart is racing!,fear
+sad,This is heartbreaking.,sad
+angry,I can't stand this!,angry
+neutral,Feeling neutral about this.,neutral
+happy,I love this!,happy
+sad,I feel so down.,sad
+angry,Stop annoying me!,angry
+disgust,I can't stand the smell.,disgust
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+surprise,That's unbelievable!,surprise
+happy,I love this!,happy
+happy,So happy to see you!,happy
+angry,This is unacceptable!,angry
+neutral,I am okay.,neutral
+sad,I feel so down.,sad
+fear,I am feeling anxious.,fear
+happy,What a beautiful day!,happy
+neutral,Feeling neutral about this.,neutral
+surprise,This is amazing!,surprise
+fear,I am feeling anxious.,fear
+happy,Best day ever!,happy
+disgust,This is so gross!,disgust
+disgust,Absolutely disgusting!,disgust
+angry,I can't stand this!,angry
+angry,I can't stand this!,angry
+happy,Best day ever!,happy
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+disgust,I can't stand the smell.,disgust
+surprise,I am totally shocked!,surprise
+angry,I am furious right now!,angry
+neutral,It's an average experience.,neutral
+angry,I can't stand this!,angry
+angry,This is unacceptable!,angry
+neutral,It's an average experience.,neutral
+sad,This is heartbreaking.,sad
+neutral,It's an average experience.,neutral
+neutral,It's an average experience.,neutral
+happy,I love this!,happy
+angry,I can't stand this!,angry
+angry,I am furious right now!,angry
+neutral,I am okay.,neutral
+surprise,That's unbelievable!,surprise
+happy,Best day ever!,happy
+fear,This is terrifying.,fear
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+angry,I am furious right now!,angry
+angry,I am furious right now!,angry
+happy,So happy to see you!,happy
+happy,I love this!,happy
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+surprise,That's unbelievable!,surprise
+sad,I miss you so much.,sad
+neutral,Nothing much to say.,sad
+disgust,I can't stand the smell.,disgust
+angry,This is unacceptable!,angry
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+angry,This is unacceptable!,angry
+fear,My heart is racing!,fear
+happy,I love this!,happy
+sad,I miss you so much.,sad
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+happy,I love this!,happy
+happy,I love this!,happy
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+sad,Nothing is going right.,sad
+neutral,I am okay.,neutral
+neutral,Just another normal day.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+sad,I am feeling blue.,sad
+sad,I am feeling blue.,sad
+disgust,This is the worst thing ever.,disgust
+disgust,Absolutely disgusting!,disgust
+disgust,This is so gross!,disgust
+surprise,This is amazing!,surprise
+happy,What a beautiful day!,happy
+angry,I can't stand this!,angry
+surprise,I am totally shocked!,surprise
+happy,What a beautiful day!,happy
+disgust,This is so gross!,disgust
+neutral,Nothing much to say.,sad
+fear,This is terrifying.,fear
+sad,I am feeling blue.,sad
+disgust,Absolutely disgusting!,disgust
+disgust,I can't stand the smell.,disgust
+fear,I am feeling anxious.,fear
+surprise,That's unbelievable!,surprise
+sad,I feel so down.,sad
+neutral,It's an average experience.,neutral
+angry,This is unacceptable!,angry
+fear,I am feeling anxious.,fear
+angry,I am furious right now!,angry
+neutral,Just another normal day.,neutral
+disgust,I feel sick looking at this.,disgust
+fear,I am really scared.,fear
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+angry,I am furious right now!,angry
+happy,So happy to see you!,happy
+surprise,I am totally shocked!,surprise
+neutral,Just another normal day.,neutral
+disgust,I feel sick looking at this.,disgust
+surprise,I can't believe it!,surprise
+happy,What a beautiful day!,happy
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+neutral,Feeling neutral about this.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+neutral,It's an average experience.,neutral
+sad,I feel so down.,sad
+sad,Nothing is going right.,sad
+angry,Stop annoying me!,angry
+disgust,I feel sick looking at this.,disgust
+neutral,It's an average experience.,neutral
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+sad,I feel so down.,sad
+sad,I miss you so much.,sad
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+happy,I love this!,happy
+fear,This is terrifying.,fear
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+surprise,I can't believe it!,surprise
+sad,I miss you so much.,sad
+disgust,Absolutely disgusting!,disgust
+fear,I am really scared.,fear
+sad,I miss you so much.,sad
+neutral,It's an average experience.,neutral
+fear,This is terrifying.,fear
+sad,I miss you so much.,sad
+sad,I feel so down.,sad
+happy,So happy to see you!,happy
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+happy,I love this!,happy
+disgust,Absolutely disgusting!,disgust
+neutral,Feeling neutral about this.,neutral
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+neutral,Nothing much to say.,sad
+angry,I can't stand this!,angry
+surprise,I can't believe it!,surprise
+sad,I feel so down.,sad
+neutral,Just another normal day.,neutral
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+sad,This is heartbreaking.,sad
+neutral,It's an average experience.,neutral
+fear,I am feeling anxious.,fear
+disgust,Absolutely disgusting!,disgust
+sad,I am feeling blue.,sad
+neutral,Just another normal day.,neutral
+happy,What a beautiful day!,happy
+surprise,I can't believe it!,surprise
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+happy,What a beautiful day!,happy
+surprise,I am totally shocked!,surprise
+surprise,I am totally shocked!,surprise
+fear,This is terrifying.,fear
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+fear,I am really scared.,fear
+fear,My heart is racing!,fear
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+disgust,This is so gross!,disgust
+sad,I feel so down.,sad
+surprise,This is amazing!,surprise
+happy,Feeling great today!,happy
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+sad,I miss you so much.,sad
+neutral,I am okay.,neutral
+neutral,It's an average experience.,neutral
+happy,I love this!,happy
+fear,I am really scared.,fear
+happy,I love this!,happy
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+sad,I am feeling blue.,sad
+neutral,I am okay.,neutral
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+neutral,It's an average experience.,neutral
+angry,This is unacceptable!,angry
+angry,I am furious right now!,angry
+sad,Nothing is going right.,sad
+angry,I can't stand this!,angry
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+fear,I don't know what to do!,fear
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+fear,This is terrifying.,fear
+disgust,This is the worst thing ever.,disgust
+sad,I miss you so much.,sad
+disgust,I feel sick looking at this.,disgust
+sad,I feel so down.,sad
+sad,This is heartbreaking.,sad
+disgust,This is the worst thing ever.,disgust
+disgust,This is so gross!,disgust
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+angry,I can't stand this!,angry
+disgust,I feel sick looking at this.,disgust
+happy,I love this!,happy
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+fear,My heart is racing!,fear
+sad,I miss you so much.,sad
+fear,I am feeling anxious.,fear
+angry,I can't stand this!,angry
+surprise,That's unbelievable!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am feeling anxious.,fear
+happy,Feeling great today!,happy
+fear,My heart is racing!,fear
+surprise,I am totally shocked!,surprise
+neutral,It's an average experience.,neutral
+sad,I miss you so much.,sad
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+neutral,It's an average experience.,neutral
+angry,This makes me so mad!,angry
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+angry,This makes me so mad!,angry
+disgust,I feel sick looking at this.,disgust
+angry,I am furious right now!,angry
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+fear,I am really scared.,fear
+sad,I am feeling blue.,sad
+fear,My heart is racing!,fear
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+happy,Feeling great today!,happy
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+surprise,I am totally shocked!,surprise
+fear,My heart is racing!,fear
+fear,This is terrifying.,fear
+fear,This is terrifying.,fear
+sad,I feel so down.,sad
+surprise,That's unbelievable!,surprise
+sad,I miss you so much.,sad
+fear,This is terrifying.,fear
+sad,Nothing is going right.,sad
+happy,I love this!,happy
+angry,Stop annoying me!,angry
+sad,Nothing is going right.,sad
+fear,My heart is racing!,fear
+disgust,I can't stand the smell.,disgust
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+neutral,Just another normal day.,neutral
+happy,I love this!,happy
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+neutral,It's an average experience.,neutral
+angry,I am furious right now!,angry
+disgust,This is so gross!,disgust
+happy,Feeling great today!,happy
+angry,This makes me so mad!,angry
+sad,Nothing is going right.,sad
+disgust,This is the worst thing ever.,disgust
+angry,This makes me so mad!,angry
+sad,I feel so down.,sad
+neutral,It's an average experience.,neutral
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+neutral,I am okay.,neutral
+neutral,I am okay.,neutral
+happy,I love this!,happy
+neutral,Feeling neutral about this.,neutral
+neutral,Feeling neutral about this.,neutral
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+happy,Best day ever!,happy
+disgust,This is so gross!,disgust
+fear,I am really scared.,fear
+disgust,Absolutely disgusting!,disgust
+happy,I love this!,happy
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+disgust,This is so gross!,disgust
+fear,My heart is racing!,fear
+neutral,I am okay.,neutral
+surprise,I can't believe it!,surprise
+neutral,Nothing much to say.,sad
+angry,Stop annoying me!,angry
+disgust,Absolutely disgusting!,disgust
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+neutral,I am okay.,neutral
+disgust,This is the worst thing ever.,disgust
+fear,I don't know what to do!,fear
+surprise,This is amazing!,surprise
+neutral,I am okay.,neutral
+fear,I am feeling anxious.,fear
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+angry,I am furious right now!,angry
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+angry,This is unacceptable!,angry
+neutral,I am okay.,neutral
+happy,I love this!,happy
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+disgust,This is the worst thing ever.,disgust
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,This makes me so mad!,angry
+disgust,I feel sick looking at this.,disgust
+angry,I can't stand this!,angry
+neutral,I am okay.,neutral
+happy,Feeling great today!,happy
+angry,I am furious right now!,angry
+disgust,This is so gross!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+sad,This is heartbreaking.,sad
+happy,So happy to see you!,happy
+happy,I love this!,happy
+surprise,I am totally shocked!,surprise
+sad,This is heartbreaking.,sad
+fear,My heart is racing!,fear
+fear,My heart is racing!,fear
+neutral,Feeling neutral about this.,neutral
+neutral,Just another normal day.,neutral
+disgust,Absolutely disgusting!,disgust
+fear,I don't know what to do!,fear
+disgust,This is so gross!,disgust
+happy,Feeling great today!,happy
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+angry,This makes me so mad!,angry
+fear,This is terrifying.,fear
+neutral,I am okay.,neutral
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+neutral,Nothing much to say.,sad
+neutral,It's an average experience.,neutral
+disgust,This is so gross!,disgust
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+sad,I am feeling blue.,sad
+neutral,I am okay.,neutral
+fear,I don't know what to do!,fear
+disgust,This is the worst thing ever.,disgust
+fear,I am feeling anxious.,fear
+angry,This is unacceptable!,angry
+disgust,This is the worst thing ever.,disgust
+fear,I don't know what to do!,fear
+surprise,I am totally shocked!,surprise
+surprise,This is amazing!,surprise
+sad,Nothing is going right.,sad
+sad,I am feeling blue.,sad
+sad,I am feeling blue.,sad
+sad,I feel so down.,sad
+happy,I love this!,happy
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+surprise,That's unbelievable!,surprise
+fear,This is terrifying.,fear
+neutral,I am okay.,neutral
+happy,Best day ever!,happy
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+surprise,"Wow, I didn't expect that!",surprise
+disgust,Absolutely disgusting!,disgust
+happy,What a beautiful day!,happy
+disgust,This is so gross!,disgust
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+happy,Best day ever!,happy
+happy,So happy to see you!,happy
+sad,This is heartbreaking.,sad
+angry,Stop annoying me!,angry
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+angry,Stop annoying me!,angry
+sad,I am feeling blue.,sad
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+happy,Best day ever!,happy
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+fear,My heart is racing!,fear
+disgust,I can't stand the smell.,disgust
+sad,I am feeling blue.,sad
+fear,I am feeling anxious.,fear
+sad,I miss you so much.,sad
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+surprise,This is amazing!,surprise
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+angry,I am furious right now!,angry
+neutral,Just another normal day.,neutral
+fear,I am feeling anxious.,fear
+fear,I am really scared.,fear
+angry,This makes me so mad!,angry
+angry,I can't stand this!,angry
+disgust,Absolutely disgusting!,disgust
+angry,Stop annoying me!,angry
+sad,I feel so down.,sad
+sad,I feel so down.,sad
+fear,I don't know what to do!,fear
+happy,Best day ever!,happy
+fear,This is terrifying.,fear
+sad,I miss you so much.,sad
+sad,I feel so down.,sad
+angry,Stop annoying me!,angry
+fear,I don't know what to do!,fear
+angry,This is unacceptable!,angry
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+surprise,This is amazing!,surprise
+disgust,I can't stand the smell.,disgust
+surprise,That's unbelievable!,surprise
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+neutral,It's an average experience.,neutral
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+happy,So happy to see you!,happy
+surprise,I can't believe it!,surprise
+sad,I feel so down.,sad
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+surprise,That's unbelievable!,surprise
+angry,I am furious right now!,angry
+sad,I miss you so much.,sad
+angry,I am furious right now!,angry
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+surprise,I can't believe it!,surprise
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+happy,Feeling great today!,happy
+disgust,Absolutely disgusting!,disgust
+disgust,I feel sick looking at this.,disgust
+disgust,This is the worst thing ever.,disgust
+surprise,I am totally shocked!,surprise
+angry,This makes me so mad!,angry
+angry,Stop annoying me!,angry
+happy,So happy to see you!,happy
+happy,I love this!,happy
+fear,I don't know what to do!,fear
+disgust,Absolutely disgusting!,disgust
+disgust,I feel sick looking at this.,disgust
+angry,I am furious right now!,angry
+angry,I can't stand this!,angry
+neutral,It's an average experience.,neutral
+happy,Best day ever!,happy
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+disgust,This is so gross!,disgust
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+disgust,This is the worst thing ever.,disgust
+sad,Nothing is going right.,sad
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+happy,Feeling great today!,happy
+surprise,I can't believe it!,surprise
+surprise,That's unbelievable!,surprise
+surprise,That's unbelievable!,surprise
+neutral,It's an average experience.,neutral
+happy,Feeling great today!,happy
+fear,This is terrifying.,fear
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+fear,My heart is racing!,fear
+neutral,Just another normal day.,neutral
+disgust,This is the worst thing ever.,disgust
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+fear,I am feeling anxious.,fear
+happy,Feeling great today!,happy
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+angry,This is unacceptable!,angry
+happy,Feeling great today!,happy
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+sad,I am feeling blue.,sad
+sad,Nothing is going right.,sad
+disgust,Absolutely disgusting!,disgust
+sad,I miss you so much.,sad
+disgust,I feel sick looking at this.,disgust
+happy,Best day ever!,happy
+fear,My heart is racing!,fear
+angry,This makes me so mad!,angry
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+fear,This is terrifying.,fear
+disgust,This is so gross!,disgust
+disgust,Absolutely disgusting!,disgust
+happy,So happy to see you!,happy
+angry,I am furious right now!,angry
+sad,I feel so down.,sad
+neutral,Nothing much to say.,sad
+sad,I feel so down.,sad
+happy,Best day ever!,happy
+happy,Best day ever!,happy
+disgust,This is the worst thing ever.,disgust
+happy,Best day ever!,happy
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is the worst thing ever.,disgust
+sad,I feel so down.,sad
+angry,Stop annoying me!,angry
+fear,My heart is racing!,fear
+disgust,This is the worst thing ever.,disgust
+neutral,I am okay.,neutral
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,I am furious right now!,angry
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+sad,Nothing is going right.,sad
+angry,I am furious right now!,angry
+fear,I am really scared.,fear
+surprise,I am totally shocked!,surprise
+neutral,It's an average experience.,neutral
+angry,This makes me so mad!,angry
+surprise,"Wow, I didn't expect that!",surprise
+angry,I am furious right now!,angry
+sad,I am feeling blue.,sad
+sad,Nothing is going right.,sad
+happy,What a beautiful day!,happy
+sad,I am feeling blue.,sad
+sad,I am feeling blue.,sad
+neutral,I am okay.,neutral
+happy,Best day ever!,happy
+fear,I don't know what to do!,fear
+sad,I am feeling blue.,sad
+disgust,This is the worst thing ever.,disgust
+fear,I am really scared.,fear
+surprise,"Wow, I didn't expect that!",surprise
+angry,This makes me so mad!,angry
+happy,So happy to see you!,happy
+neutral,Feeling neutral about this.,neutral
+angry,This is unacceptable!,angry
+happy,I love this!,happy
+neutral,Feeling neutral about this.,neutral
+disgust,This is so gross!,disgust
+angry,This is unacceptable!,angry
+happy,I love this!,happy
+happy,What a beautiful day!,happy
+surprise,I am totally shocked!,surprise
+neutral,Nothing much to say.,sad
+happy,I love this!,happy
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am really scared.,fear
+angry,I can't stand this!,angry
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+sad,Nothing is going right.,sad
+surprise,This is amazing!,surprise
+disgust,I feel sick looking at this.,disgust
+disgust,This is the worst thing ever.,disgust
+disgust,Absolutely disgusting!,disgust
+happy,So happy to see you!,happy
+disgust,This is so gross!,disgust
+angry,I am furious right now!,angry
+neutral,I am okay.,neutral
+sad,Nothing is going right.,sad
+angry,I can't stand this!,angry
+sad,I am feeling blue.,sad
+neutral,I am okay.,neutral
+fear,I am feeling anxious.,fear
+disgust,I can't stand the smell.,disgust
+sad,I feel so down.,sad
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+fear,I am really scared.,fear
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+disgust,I feel sick looking at this.,disgust
+sad,This is heartbreaking.,sad
+disgust,I can't stand the smell.,disgust
+fear,This is terrifying.,fear
+sad,I am feeling blue.,sad
+sad,I feel so down.,sad
+happy,Best day ever!,happy
+disgust,This is so gross!,disgust
+surprise,I can't believe it!,surprise
+angry,This is unacceptable!,angry
+disgust,Absolutely disgusting!,disgust
+happy,Best day ever!,happy
+disgust,This is so gross!,disgust
+sad,Nothing is going right.,sad
+neutral,Feeling neutral about this.,neutral
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+sad,Nothing is going right.,sad
+fear,I don't know what to do!,fear
+fear,This is terrifying.,fear
+fear,This is terrifying.,fear
+sad,This is heartbreaking.,sad
+disgust,This is the worst thing ever.,disgust
+sad,I am feeling blue.,sad
+neutral,Feeling neutral about this.,neutral
+happy,So happy to see you!,happy
+sad,I miss you so much.,sad
+angry,I can't stand this!,angry
+happy,Best day ever!,happy
+fear,I am really scared.,fear
+surprise,This is amazing!,surprise
+surprise,I can't believe it!,surprise
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+disgust,I can't stand the smell.,disgust
+surprise,I can't believe it!,surprise
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+disgust,I can't stand the smell.,disgust
+sad,I miss you so much.,sad
+sad,Nothing is going right.,sad
+neutral,Just another normal day.,neutral
+neutral,I am okay.,neutral
+fear,I am feeling anxious.,fear
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+surprise,This is amazing!,surprise
+happy,Best day ever!,happy
+disgust,I feel sick looking at this.,disgust
+neutral,Feeling neutral about this.,neutral
+happy,Best day ever!,happy
+surprise,This is amazing!,surprise
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+fear,I don't know what to do!,fear
+angry,This is unacceptable!,angry
+angry,I can't stand this!,angry
+angry,I can't stand this!,angry
+angry,I am furious right now!,angry
+surprise,This is amazing!,surprise
+neutral,Nothing much to say.,sad
+neutral,Feeling neutral about this.,neutral
+happy,So happy to see you!,happy
+disgust,I can't stand the smell.,disgust
+happy,So happy to see you!,happy
+angry,I can't stand this!,angry
+fear,This is terrifying.,fear
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+happy,What a beautiful day!,happy
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+sad,I am feeling blue.,sad
+disgust,Absolutely disgusting!,disgust
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+neutral,It's an average experience.,neutral
+angry,I am furious right now!,angry
+disgust,I feel sick looking at this.,disgust
+fear,My heart is racing!,fear
+surprise,I am totally shocked!,surprise
+surprise,I can't believe it!,surprise
+angry,I am furious right now!,angry
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+happy,Feeling great today!,happy
+happy,Feeling great today!,happy
+happy,What a beautiful day!,happy
+disgust,This is so gross!,disgust
+fear,I am really scared.,fear
+angry,I am furious right now!,angry
+happy,Feeling great today!,happy
+sad,This is heartbreaking.,sad
+angry,This makes me so mad!,angry
+disgust,I can't stand the smell.,disgust
+surprise,I am totally shocked!,surprise
+surprise,I am totally shocked!,surprise
+neutral,Just another normal day.,neutral
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is the worst thing ever.,disgust
+neutral,Just another normal day.,neutral
+sad,I am feeling blue.,sad
+disgust,This is so gross!,disgust
+fear,I am feeling anxious.,fear
+happy,What a beautiful day!,happy
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,I can't stand this!,angry
+sad,Nothing is going right.,sad
+sad,I feel so down.,sad
+angry,I am furious right now!,angry
+fear,I don't know what to do!,fear
+fear,This is terrifying.,fear
+surprise,I am totally shocked!,surprise
+disgust,I can't stand the smell.,disgust
+angry,This makes me so mad!,angry
+fear,I am really scared.,fear
+sad,Nothing is going right.,sad
+fear,I am really scared.,fear
+happy,Feeling great today!,happy
+surprise,This is amazing!,surprise
+disgust,This is the worst thing ever.,disgust
+disgust,This is the worst thing ever.,disgust
+fear,My heart is racing!,fear
+fear,I am feeling anxious.,fear
+surprise,I can't believe it!,surprise
+disgust,This is the worst thing ever.,disgust
+neutral,Nothing much to say.,sad
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+happy,Best day ever!,happy
+neutral,Just another normal day.,neutral
+neutral,Nothing much to say.,sad
+sad,I feel so down.,sad
+surprise,That's unbelievable!,surprise
+neutral,Nothing much to say.,sad
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+neutral,I am okay.,neutral
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+surprise,"Wow, I didn't expect that!",surprise
+surprise,This is amazing!,surprise
+happy,Best day ever!,happy
+fear,My heart is racing!,fear
+surprise,I am totally shocked!,surprise
+fear,I am really scared.,fear
+fear,My heart is racing!,fear
+surprise,That's unbelievable!,surprise
+sad,Nothing is going right.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is so gross!,disgust
+disgust,This is so gross!,disgust
+angry,I am furious right now!,angry
+neutral,Nothing much to say.,sad
+surprise,I can't believe it!,surprise
+angry,Stop annoying me!,angry
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+happy,Best day ever!,happy
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+angry,Stop annoying me!,angry
+fear,This is terrifying.,fear
+happy,So happy to see you!,happy
+surprise,I can't believe it!,surprise
+angry,I am furious right now!,angry
+fear,My heart is racing!,fear
+disgust,Absolutely disgusting!,disgust
+neutral,Feeling neutral about this.,neutral
+disgust,This is the worst thing ever.,disgust
+happy,Best day ever!,happy
+happy,So happy to see you!,happy
+angry,I am furious right now!,angry
+neutral,Nothing much to say.,sad
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+sad,Nothing is going right.,sad
+sad,Nothing is going right.,sad
+neutral,I am okay.,neutral
+neutral,Nothing much to say.,sad
+happy,I love this!,happy
+disgust,I can't stand the smell.,disgust
+fear,This is terrifying.,fear
+neutral,It's an average experience.,neutral
+surprise,This is amazing!,surprise
+happy,Best day ever!,happy
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+neutral,Feeling neutral about this.,neutral
+angry,This is unacceptable!,angry
+angry,Stop annoying me!,angry
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+happy,What a beautiful day!,happy
+surprise,That's unbelievable!,surprise
+fear,My heart is racing!,fear
+fear,My heart is racing!,fear
+sad,I miss you so much.,sad
+disgust,This is so gross!,disgust
+disgust,I can't stand the smell.,disgust
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+neutral,It's an average experience.,neutral
+disgust,Absolutely disgusting!,disgust
+happy,Feeling great today!,happy
+sad,I am feeling blue.,sad
+sad,I feel so down.,sad
+neutral,I am okay.,neutral
+happy,I love this!,happy
+happy,What a beautiful day!,happy
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+sad,I am feeling blue.,sad
+angry,I can't stand this!,angry
+happy,Best day ever!,happy
+surprise,"Wow, I didn't expect that!",surprise
+surprise,This is amazing!,surprise
+sad,Nothing is going right.,sad
+sad,I am feeling blue.,sad
+happy,Feeling great today!,happy
+surprise,"Wow, I didn't expect that!",surprise
+sad,This is heartbreaking.,sad
+disgust,This is so gross!,disgust
+surprise,That's unbelievable!,surprise
+fear,I don't know what to do!,fear
+fear,My heart is racing!,fear
+disgust,This is the worst thing ever.,disgust
+fear,This is terrifying.,fear
+sad,I feel so down.,sad
+neutral,Feeling neutral about this.,neutral
+disgust,This is the worst thing ever.,disgust
+neutral,I am okay.,neutral
+fear,I don't know what to do!,fear
+angry,This is unacceptable!,angry
+happy,What a beautiful day!,happy
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+sad,I feel so down.,sad
+disgust,This is the worst thing ever.,disgust
+surprise,That's unbelievable!,surprise
+angry,Stop annoying me!,angry
+angry,I am furious right now!,angry
+fear,I don't know what to do!,fear
+neutral,I am okay.,neutral
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+surprise,I can't believe it!,surprise
+disgust,Absolutely disgusting!,disgust
+disgust,This is so gross!,disgust
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+disgust,Absolutely disgusting!,disgust
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+disgust,Absolutely disgusting!,disgust
+disgust,This is the worst thing ever.,disgust
+angry,This makes me so mad!,angry
+angry,Stop annoying me!,angry
+angry,This is unacceptable!,angry
+fear,My heart is racing!,fear
+fear,I don't know what to do!,fear
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+happy,What a beautiful day!,happy
+neutral,Nothing much to say.,sad
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+sad,This is heartbreaking.,sad
+happy,I love this!,happy
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+disgust,This is so gross!,disgust
+disgust,Absolutely disgusting!,disgust
+neutral,Nothing much to say.,sad
+happy,Best day ever!,happy
+surprise,I am totally shocked!,surprise
+angry,I am furious right now!,angry
+happy,Feeling great today!,happy
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+surprise,"Wow, I didn't expect that!",surprise
+happy,What a beautiful day!,happy
+neutral,Nothing much to say.,sad
+surprise,"Wow, I didn't expect that!",surprise
+disgust,Absolutely disgusting!,disgust
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+neutral,Nothing much to say.,sad
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+fear,I am feeling anxious.,fear
+disgust,I can't stand the smell.,disgust
+happy,Best day ever!,happy
+neutral,It's an average experience.,neutral
+angry,This is unacceptable!,angry
+neutral,I am okay.,neutral
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+happy,So happy to see you!,happy
+disgust,I can't stand the smell.,disgust
+fear,My heart is racing!,fear
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+neutral,Nothing much to say.,sad
+angry,I am furious right now!,angry
+neutral,Nothing much to say.,sad
+fear,I am really scared.,fear
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+neutral,Nothing much to say.,sad
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+angry,I can't stand this!,angry
+neutral,It's an average experience.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+fear,This is terrifying.,fear
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+disgust,I can't stand the smell.,disgust
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+happy,What a beautiful day!,happy
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+fear,My heart is racing!,fear
+neutral,It's an average experience.,neutral
+fear,I am really scared.,fear
+surprise,That's unbelievable!,surprise
+neutral,Nothing much to say.,sad
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am feeling anxious.,fear
+angry,This makes me so mad!,angry
+angry,I am furious right now!,angry
+neutral,I am okay.,neutral
+happy,Best day ever!,happy
+surprise,I can't believe it!,surprise
+disgust,I can't stand the smell.,disgust
+surprise,That's unbelievable!,surprise
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+neutral,It's an average experience.,neutral
+fear,I am really scared.,fear
+fear,This is terrifying.,fear
+angry,This makes me so mad!,angry
+disgust,This is the worst thing ever.,disgust
+fear,This is terrifying.,fear
+happy,I love this!,happy
+happy,Feeling great today!,happy
+sad,This is heartbreaking.,sad
+fear,This is terrifying.,fear
+fear,My heart is racing!,fear
+surprise,I am totally shocked!,surprise
+sad,I feel so down.,sad
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+happy,I love this!,happy
+disgust,I can't stand the smell.,disgust
+disgust,Absolutely disgusting!,disgust
+neutral,It's an average experience.,neutral
+angry,Stop annoying me!,angry
+angry,I can't stand this!,angry
+fear,I don't know what to do!,fear
+angry,I am furious right now!,angry
+angry,This makes me so mad!,angry
+neutral,It's an average experience.,neutral
+angry,I can't stand this!,angry
+sad,Nothing is going right.,sad
+happy,So happy to see you!,happy
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+sad,I feel so down.,sad
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+fear,My heart is racing!,fear
+surprise,That's unbelievable!,surprise
+disgust,I feel sick looking at this.,disgust
+happy,What a beautiful day!,happy
+sad,I miss you so much.,sad
+happy,I love this!,happy
+sad,I am feeling blue.,sad
+neutral,I am okay.,neutral
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+angry,This is unacceptable!,angry
+angry,I am furious right now!,angry
+neutral,I am okay.,neutral
+surprise,I am totally shocked!,surprise
+happy,Best day ever!,happy
+happy,So happy to see you!,happy
+happy,Best day ever!,happy
+neutral,Feeling neutral about this.,neutral
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+happy,Best day ever!,happy
+angry,This is unacceptable!,angry
+angry,I am furious right now!,angry
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+surprise,I am totally shocked!,surprise
+surprise,I can't believe it!,surprise
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+angry,This makes me so mad!,angry
+disgust,Absolutely disgusting!,disgust
+neutral,Nothing much to say.,sad
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+happy,Best day ever!,happy
+fear,My heart is racing!,fear
+happy,Feeling great today!,happy
+neutral,It's an average experience.,neutral
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+happy,I love this!,happy
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+surprise,"Wow, I didn't expect that!",surprise
+angry,I can't stand this!,angry
+angry,This is unacceptable!,angry
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+disgust,This is the worst thing ever.,disgust
+happy,What a beautiful day!,happy
+angry,I can't stand this!,angry
+disgust,I can't stand the smell.,disgust
+sad,I am feeling blue.,sad
+happy,So happy to see you!,happy
+happy,So happy to see you!,happy
+surprise,"Wow, I didn't expect that!",surprise
+angry,I can't stand this!,angry
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+happy,What a beautiful day!,happy
+neutral,Feeling neutral about this.,neutral
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+angry,Stop annoying me!,angry
+disgust,I feel sick looking at this.,disgust
+angry,I can't stand this!,angry
+happy,I love this!,happy
+angry,I can't stand this!,angry
+neutral,It's an average experience.,neutral
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+surprise,I can't believe it!,surprise
+angry,This is unacceptable!,angry
+happy,What a beautiful day!,happy
+neutral,It's an average experience.,neutral
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+angry,I am furious right now!,angry
+happy,I love this!,happy
+surprise,I can't believe it!,surprise
+surprise,That's unbelievable!,surprise
+disgust,Absolutely disgusting!,disgust
+fear,I am really scared.,fear
+sad,I feel so down.,sad
+surprise,I am totally shocked!,surprise
+angry,I am furious right now!,angry
+neutral,Nothing much to say.,sad
+sad,I miss you so much.,sad
+happy,Best day ever!,happy
+surprise,This is amazing!,surprise
+fear,This is terrifying.,fear
+angry,This makes me so mad!,angry
+neutral,Nothing much to say.,sad
+happy,What a beautiful day!,happy
+surprise,"Wow, I didn't expect that!",surprise
+happy,Best day ever!,happy
+neutral,I am okay.,neutral
+angry,I am furious right now!,angry
+happy,So happy to see you!,happy
+disgust,I can't stand the smell.,disgust
+happy,I love this!,happy
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+angry,I can't stand this!,angry
+happy,I love this!,happy
+disgust,This is so gross!,disgust
+sad,I am feeling blue.,sad
+surprise,I am totally shocked!,surprise
+surprise,I am totally shocked!,surprise
+sad,Nothing is going right.,sad
+fear,I don't know what to do!,fear
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+neutral,Feeling neutral about this.,neutral
+neutral,It's an average experience.,neutral
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+fear,I am really scared.,fear
+angry,I can't stand this!,angry
+fear,I am really scared.,fear
+surprise,I am totally shocked!,surprise
+sad,I miss you so much.,sad
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+surprise,"Wow, I didn't expect that!",surprise
+sad,I feel so down.,sad
+angry,This makes me so mad!,angry
+neutral,Feeling neutral about this.,neutral
+neutral,It's an average experience.,neutral
+angry,Stop annoying me!,angry
+surprise,I can't believe it!,surprise
+angry,This is unacceptable!,angry
+disgust,This is so gross!,disgust
+sad,I feel so down.,sad
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+angry,I am furious right now!,angry
+angry,Stop annoying me!,angry
+sad,I feel so down.,sad
+disgust,Absolutely disgusting!,disgust
+disgust,This is the worst thing ever.,disgust
+happy,Best day ever!,happy
+happy,I love this!,happy
+disgust,I can't stand the smell.,disgust
+angry,This is unacceptable!,angry
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+disgust,This is the worst thing ever.,disgust
+disgust,This is so gross!,disgust
+disgust,This is the worst thing ever.,disgust
+neutral,It's an average experience.,neutral
+fear,My heart is racing!,fear
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+disgust,This is the worst thing ever.,disgust
+disgust,Absolutely disgusting!,disgust
+neutral,Feeling neutral about this.,neutral
+disgust,I feel sick looking at this.,disgust
+angry,I am furious right now!,angry
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+surprise,That's unbelievable!,surprise
+surprise,I can't believe it!,surprise
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+disgust,I can't stand the smell.,disgust
+sad,I miss you so much.,sad
+sad,I feel so down.,sad
+fear,I am feeling anxious.,fear
+neutral,It's an average experience.,neutral
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+surprise,That's unbelievable!,surprise
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+happy,What a beautiful day!,happy
+neutral,Feeling neutral about this.,neutral
+surprise,I can't believe it!,surprise
+surprise,That's unbelievable!,surprise
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+disgust,I feel sick looking at this.,disgust
+angry,This is unacceptable!,angry
+angry,I am furious right now!,angry
+surprise,This is amazing!,surprise
+angry,This is unacceptable!,angry
+happy,So happy to see you!,happy
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+surprise,I am totally shocked!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+fear,I don't know what to do!,fear
+disgust,This is the worst thing ever.,disgust
+angry,This makes me so mad!,angry
+fear,I don't know what to do!,fear
+happy,I love this!,happy
+happy,I love this!,happy
+happy,Feeling great today!,happy
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+disgust,Absolutely disgusting!,disgust
+happy,What a beautiful day!,happy
+neutral,Nothing much to say.,sad
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+surprise,I am totally shocked!,surprise
+disgust,I can't stand the smell.,disgust
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+surprise,I can't believe it!,surprise
+sad,I miss you so much.,sad
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+sad,I feel so down.,sad
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+disgust,Absolutely disgusting!,disgust
+happy,So happy to see you!,happy
+neutral,I am okay.,neutral
+surprise,This is amazing!,surprise
+angry,Stop annoying me!,angry
+angry,This is unacceptable!,angry
+angry,This is unacceptable!,angry
+disgust,Absolutely disgusting!,disgust
+sad,This is heartbreaking.,sad
+surprise,That's unbelievable!,surprise
+sad,I am feeling blue.,sad
+neutral,It's an average experience.,neutral
+fear,I don't know what to do!,fear
+disgust,Absolutely disgusting!,disgust
+neutral,Nothing much to say.,sad
+neutral,It's an average experience.,neutral
+disgust,I can't stand the smell.,disgust
+surprise,This is amazing!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+sad,This is heartbreaking.,sad
+happy,Best day ever!,happy
+happy,I love this!,happy
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+neutral,Nothing much to say.,sad
+happy,I love this!,happy
+fear,I don't know what to do!,fear
+fear,My heart is racing!,fear
+sad,This is heartbreaking.,sad
+angry,I can't stand this!,angry
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+sad,Nothing is going right.,sad
+neutral,Just another normal day.,neutral
+angry,Stop annoying me!,angry
+angry,Stop annoying me!,angry
+sad,I feel so down.,sad
+sad,Nothing is going right.,sad
+sad,I miss you so much.,sad
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+disgust,Absolutely disgusting!,disgust
+surprise,This is amazing!,surprise
+disgust,I can't stand the smell.,disgust
+surprise,That's unbelievable!,surprise
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+happy,I love this!,happy
+angry,I can't stand this!,angry
+surprise,This is amazing!,surprise
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+disgust,This is the worst thing ever.,disgust
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+angry,This is unacceptable!,angry
+surprise,That's unbelievable!,surprise
+fear,I am feeling anxious.,fear
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+angry,I can't stand this!,angry
+neutral,Nothing much to say.,sad
+surprise,This is amazing!,surprise
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+neutral,Just another normal day.,neutral
+disgust,I can't stand the smell.,disgust
+surprise,That's unbelievable!,surprise
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+fear,My heart is racing!,fear
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+disgust,I feel sick looking at this.,disgust
+disgust,I feel sick looking at this.,disgust
+fear,My heart is racing!,fear
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+surprise,That's unbelievable!,surprise
+disgust,I feel sick looking at this.,disgust
+neutral,Just another normal day.,neutral
+surprise,This is amazing!,surprise
+neutral,I am okay.,neutral
+disgust,This is the worst thing ever.,disgust
+surprise,I can't believe it!,surprise
+angry,I can't stand this!,angry
+happy,Feeling great today!,happy
+angry,This makes me so mad!,angry
+angry,I can't stand this!,angry
+neutral,Nothing much to say.,sad
+disgust,I can't stand the smell.,disgust
+fear,I am feeling anxious.,fear
+sad,I feel so down.,sad
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+fear,My heart is racing!,fear
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+angry,Stop annoying me!,angry
+fear,My heart is racing!,fear
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+neutral,Just another normal day.,neutral
+fear,I am feeling anxious.,fear
+sad,I miss you so much.,sad
+sad,I miss you so much.,sad
+surprise,I am totally shocked!,surprise
+happy,Best day ever!,happy
+angry,Stop annoying me!,angry
+angry,Stop annoying me!,angry
+neutral,Just another normal day.,neutral
+happy,Feeling great today!,happy
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+surprise,That's unbelievable!,surprise
+surprise,I can't believe it!,surprise
+disgust,Absolutely disgusting!,disgust
+disgust,Absolutely disgusting!,disgust
+happy,Best day ever!,happy
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+sad,I am feeling blue.,sad
+angry,This is unacceptable!,angry
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+neutral,I am okay.,neutral
+sad,I miss you so much.,sad
+neutral,It's an average experience.,neutral
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+sad,I feel so down.,sad
+surprise,I am totally shocked!,surprise
+neutral,It's an average experience.,neutral
+happy,Best day ever!,happy
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+happy,So happy to see you!,happy
+neutral,Nothing much to say.,sad
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+surprise,That's unbelievable!,surprise
+surprise,This is amazing!,surprise
+angry,I can't stand this!,angry
+fear,This is terrifying.,fear
+angry,This is unacceptable!,angry
+surprise,"Wow, I didn't expect that!",surprise
+sad,I feel so down.,sad
+surprise,I am totally shocked!,surprise
+angry,This makes me so mad!,angry
+fear,I am feeling anxious.,fear
+happy,So happy to see you!,happy
+surprise,This is amazing!,surprise
+fear,My heart is racing!,fear
+happy,I love this!,happy
+fear,I am feeling anxious.,fear
+happy,I love this!,happy
+angry,This makes me so mad!,angry
+disgust,I can't stand the smell.,disgust
+fear,I am feeling anxious.,fear
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+sad,I feel so down.,sad
+sad,I miss you so much.,sad
+neutral,It's an average experience.,neutral
+disgust,I can't stand the smell.,disgust
+disgust,I can't stand the smell.,disgust
+sad,I feel so down.,sad
+fear,My heart is racing!,fear
+sad,I feel so down.,sad
+sad,I miss you so much.,sad
+disgust,I can't stand the smell.,disgust
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+neutral,It's an average experience.,neutral
+happy,What a beautiful day!,happy
+neutral,Feeling neutral about this.,neutral
+happy,What a beautiful day!,happy
+fear,I am really scared.,fear
+fear,I don't know what to do!,fear
+surprise,"Wow, I didn't expect that!",surprise
+disgust,Absolutely disgusting!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+angry,Stop annoying me!,angry
+angry,This makes me so mad!,angry
+surprise,This is amazing!,surprise
+angry,I am furious right now!,angry
+angry,This is unacceptable!,angry
+angry,This is unacceptable!,angry
+angry,Stop annoying me!,angry
+surprise,I can't believe it!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+surprise,I am totally shocked!,surprise
+neutral,I am okay.,neutral
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+neutral,Nothing much to say.,sad
+angry,I am furious right now!,angry
+angry,I can't stand this!,angry
+disgust,This is the worst thing ever.,disgust
+neutral,Feeling neutral about this.,neutral
+neutral,Nothing much to say.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,That's unbelievable!,surprise
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+happy,Feeling great today!,happy
+angry,This makes me so mad!,angry
+happy,Feeling great today!,happy
+neutral,Nothing much to say.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,Stop annoying me!,angry
+fear,I don't know what to do!,fear
+fear,I am really scared.,fear
+sad,Nothing is going right.,sad
+neutral,Nothing much to say.,sad
+fear,I am feeling anxious.,fear
+surprise,"Wow, I didn't expect that!",surprise
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+fear,This is terrifying.,fear
+disgust,Absolutely disgusting!,disgust
+surprise,I am totally shocked!,surprise
+disgust,Absolutely disgusting!,disgust
+sad,This is heartbreaking.,sad
+disgust,Absolutely disgusting!,disgust
+happy,What a beautiful day!,happy
+fear,I am feeling anxious.,fear
+disgust,I can't stand the smell.,disgust
+sad,Nothing is going right.,sad
+fear,I am really scared.,fear
+angry,I can't stand this!,angry
+sad,I am feeling blue.,sad
+angry,I am furious right now!,angry
+surprise,I am totally shocked!,surprise
+surprise,This is amazing!,surprise
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+fear,I am really scared.,fear
+disgust,I can't stand the smell.,disgust
+fear,This is terrifying.,fear
+angry,I am furious right now!,angry
+sad,Nothing is going right.,sad
+disgust,I feel sick looking at this.,disgust
+neutral,I am okay.,neutral
+neutral,Feeling neutral about this.,neutral
+disgust,I can't stand the smell.,disgust
+sad,I am feeling blue.,sad
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+sad,I feel so down.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,I am totally shocked!,surprise
+neutral,Nothing much to say.,sad
+surprise,This is amazing!,surprise
+disgust,I feel sick looking at this.,disgust
+sad,Nothing is going right.,sad
+happy,So happy to see you!,happy
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+disgust,This is the worst thing ever.,disgust
+surprise,I can't believe it!,surprise
+angry,This is unacceptable!,angry
+disgust,Absolutely disgusting!,disgust
+sad,Nothing is going right.,sad
+neutral,Nothing much to say.,sad
+surprise,This is amazing!,surprise
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+surprise,That's unbelievable!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+surprise,I am totally shocked!,surprise
+neutral,I am okay.,neutral
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+happy,I love this!,happy
+surprise,"Wow, I didn't expect that!",surprise
+fear,This is terrifying.,fear
+sad,Nothing is going right.,sad
+sad,I feel so down.,sad
+disgust,Absolutely disgusting!,disgust
+happy,Feeling great today!,happy
+neutral,Just another normal day.,neutral
+happy,I love this!,happy
+surprise,That's unbelievable!,surprise
+surprise,This is amazing!,surprise
+angry,This is unacceptable!,angry
+happy,What a beautiful day!,happy
+angry,I am furious right now!,angry
+neutral,Feeling neutral about this.,neutral
+happy,What a beautiful day!,happy
+surprise,I can't believe it!,surprise
+disgust,This is the worst thing ever.,disgust
+neutral,Just another normal day.,neutral
+fear,My heart is racing!,fear
+disgust,Absolutely disgusting!,disgust
+angry,I am furious right now!,angry
+sad,I feel so down.,sad
+neutral,Nothing much to say.,sad
+sad,I feel so down.,sad
+sad,I miss you so much.,sad
+fear,I am really scared.,fear
+neutral,Just another normal day.,neutral
+disgust,Absolutely disgusting!,disgust
+disgust,I feel sick looking at this.,disgust
+neutral,Just another normal day.,neutral
+disgust,I feel sick looking at this.,disgust
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+neutral,It's an average experience.,neutral
+sad,I miss you so much.,sad
+fear,My heart is racing!,fear
+angry,I am furious right now!,angry
+neutral,It's an average experience.,neutral
+fear,I don't know what to do!,fear
+surprise,I can't believe it!,surprise
+angry,I can't stand this!,angry
+disgust,I can't stand the smell.,disgust
+disgust,I can't stand the smell.,disgust
+happy,Best day ever!,happy
+happy,Feeling great today!,happy
+sad,Nothing is going right.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,I can't believe it!,surprise
+disgust,Absolutely disgusting!,disgust
+fear,I am really scared.,fear
+disgust,Absolutely disgusting!,disgust
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+angry,I can't stand this!,angry
+surprise,This is amazing!,surprise
+disgust,I feel sick looking at this.,disgust
+sad,I feel so down.,sad
+surprise,That's unbelievable!,surprise
+angry,Stop annoying me!,angry
+fear,I am really scared.,fear
+surprise,I can't believe it!,surprise
+disgust,I feel sick looking at this.,disgust
+fear,My heart is racing!,fear
+disgust,This is the worst thing ever.,disgust
+angry,This is unacceptable!,angry
+happy,Feeling great today!,happy
+sad,I am feeling blue.,sad
+fear,I am feeling anxious.,fear
+angry,This makes me so mad!,angry
+sad,I feel so down.,sad
+sad,I feel so down.,sad
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+happy,So happy to see you!,happy
+neutral,I am okay.,neutral
+happy,What a beautiful day!,happy
+sad,I am feeling blue.,sad
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+neutral,Nothing much to say.,sad
+angry,This is unacceptable!,angry
+angry,This makes me so mad!,angry
+neutral,Feeling neutral about this.,neutral
+angry,Stop annoying me!,angry
+disgust,This is the worst thing ever.,disgust
+angry,This is unacceptable!,angry
+sad,I miss you so much.,sad
+fear,I don't know what to do!,fear
+neutral,It's an average experience.,neutral
+happy,I love this!,happy
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+happy,I love this!,happy
+disgust,This is so gross!,disgust
+surprise,That's unbelievable!,surprise
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+disgust,I can't stand the smell.,disgust
+disgust,This is so gross!,disgust
+disgust,This is so gross!,disgust
+sad,This is heartbreaking.,sad
+sad,Nothing is going right.,sad
+fear,I am feeling anxious.,fear
+happy,What a beautiful day!,happy
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+sad,I feel so down.,sad
+fear,I don't know what to do!,fear
+happy,Feeling great today!,happy
+surprise,I can't believe it!,surprise
+disgust,I feel sick looking at this.,disgust
+disgust,Absolutely disgusting!,disgust
+fear,I don't know what to do!,fear
+happy,What a beautiful day!,happy
+fear,I am feeling anxious.,fear
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+surprise,"Wow, I didn't expect that!",surprise
+happy,Best day ever!,happy
+disgust,I feel sick looking at this.,disgust
+happy,Feeling great today!,happy
+happy,Best day ever!,happy
+neutral,Feeling neutral about this.,neutral
+angry,Stop annoying me!,angry
+surprise,I can't believe it!,surprise
+sad,I feel so down.,sad
+sad,This is heartbreaking.,sad
+angry,This makes me so mad!,angry
+surprise,This is amazing!,surprise
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+disgust,Absolutely disgusting!,disgust
+neutral,Just another normal day.,neutral
+fear,I am really scared.,fear
+angry,I can't stand this!,angry
+angry,This is unacceptable!,angry
+sad,Nothing is going right.,sad
+happy,Feeling great today!,happy
+surprise,"Wow, I didn't expect that!",surprise
+happy,I love this!,happy
+happy,Feeling great today!,happy
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+happy,What a beautiful day!,happy
+surprise,This is amazing!,surprise
+disgust,I can't stand the smell.,disgust
+fear,My heart is racing!,fear
+fear,I don't know what to do!,fear
+neutral,It's an average experience.,neutral
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+neutral,Just another normal day.,neutral
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+fear,I am feeling anxious.,fear
+surprise,This is amazing!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,That's unbelievable!,surprise
+fear,I am feeling anxious.,fear
+sad,I miss you so much.,sad
+neutral,I am okay.,neutral
+sad,I feel so down.,sad
+sad,This is heartbreaking.,sad
+happy,Best day ever!,happy
+disgust,This is the worst thing ever.,disgust
+angry,I can't stand this!,angry
+neutral,Nothing much to say.,sad
+fear,My heart is racing!,fear
+fear,I don't know what to do!,fear
+happy,So happy to see you!,happy
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+disgust,Absolutely disgusting!,disgust
+angry,This is unacceptable!,angry
+happy,Best day ever!,happy
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+angry,I am furious right now!,angry
+fear,I am really scared.,fear
+surprise,I am totally shocked!,surprise
+neutral,Just another normal day.,neutral
+surprise,I am totally shocked!,surprise
+surprise,That's unbelievable!,surprise
+happy,I love this!,happy
+fear,I am feeling anxious.,fear
+sad,This is heartbreaking.,sad
+surprise,This is amazing!,surprise
+sad,I feel so down.,sad
+sad,Nothing is going right.,sad
+happy,Feeling great today!,happy
+surprise,That's unbelievable!,surprise
+surprise,I can't believe it!,surprise
+neutral,Just another normal day.,neutral
+fear,This is terrifying.,fear
+happy,What a beautiful day!,happy
+fear,This is terrifying.,fear
+sad,I miss you so much.,sad
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+angry,I am furious right now!,angry
+happy,What a beautiful day!,happy
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+happy,I love this!,happy
+angry,Stop annoying me!,angry
+surprise,This is amazing!,surprise
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+surprise,I am totally shocked!,surprise
+disgust,I can't stand the smell.,disgust
+happy,What a beautiful day!,happy
+disgust,Absolutely disgusting!,disgust
+angry,I can't stand this!,angry
+fear,This is terrifying.,fear
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+happy,Feeling great today!,happy
+neutral,It's an average experience.,neutral
+neutral,Just another normal day.,neutral
+neutral,It's an average experience.,neutral
+neutral,It's an average experience.,neutral
+fear,This is terrifying.,fear
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+sad,I am feeling blue.,sad
+disgust,I feel sick looking at this.,disgust
+happy,I love this!,happy
+surprise,"Wow, I didn't expect that!",surprise
+disgust,Absolutely disgusting!,disgust
+angry,This is unacceptable!,angry
+surprise,This is amazing!,surprise
+fear,I don't know what to do!,fear
+sad,I am feeling blue.,sad
+sad,I am feeling blue.,sad
+angry,Stop annoying me!,angry
+sad,I am feeling blue.,sad
+fear,I don't know what to do!,fear
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+angry,I am furious right now!,angry
+happy,So happy to see you!,happy
+fear,This is terrifying.,fear
+surprise,That's unbelievable!,surprise
+sad,Nothing is going right.,sad
+happy,Feeling great today!,happy
+surprise,"Wow, I didn't expect that!",surprise
+fear,I don't know what to do!,fear
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+neutral,I am okay.,neutral
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+neutral,Just another normal day.,neutral
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+sad,This is heartbreaking.,sad
+sad,Nothing is going right.,sad
+surprise,I can't believe it!,surprise
+disgust,Absolutely disgusting!,disgust
+fear,I am feeling anxious.,fear
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+disgust,This is the worst thing ever.,disgust
+fear,I am really scared.,fear
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+disgust,I can't stand the smell.,disgust
+surprise,I can't believe it!,surprise
+neutral,Feeling neutral about this.,neutral
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+sad,I feel so down.,sad
+fear,My heart is racing!,fear
+angry,I can't stand this!,angry
+sad,This is heartbreaking.,sad
+fear,This is terrifying.,fear
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+neutral,I am okay.,neutral
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+happy,What a beautiful day!,happy
+angry,Stop annoying me!,angry
+sad,I am feeling blue.,sad
+angry,Stop annoying me!,angry
+happy,Feeling great today!,happy
+surprise,I can't believe it!,surprise
+neutral,Just another normal day.,neutral
+sad,I feel so down.,sad
+fear,I am feeling anxious.,fear
+fear,I am feeling anxious.,fear
+neutral,It's an average experience.,neutral
+neutral,Just another normal day.,neutral
+disgust,I can't stand the smell.,disgust
+angry,This makes me so mad!,angry
+angry,I am furious right now!,angry
+angry,I can't stand this!,angry
+neutral,It's an average experience.,neutral
+sad,This is heartbreaking.,sad
+sad,I am feeling blue.,sad
+angry,This makes me so mad!,angry
+disgust,This is so gross!,disgust
+sad,This is heartbreaking.,sad
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+angry,This is unacceptable!,angry
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+sad,Nothing is going right.,sad
+angry,I can't stand this!,angry
+fear,I am really scared.,fear
+fear,I am feeling anxious.,fear
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+angry,I can't stand this!,angry
+angry,Stop annoying me!,angry
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Nothing much to say.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,This makes me so mad!,angry
+surprise,That's unbelievable!,surprise
+neutral,I am okay.,neutral
+surprise,This is amazing!,surprise
+happy,Feeling great today!,happy
+sad,I am feeling blue.,sad
+fear,I am feeling anxious.,fear
+surprise,"Wow, I didn't expect that!",surprise
+surprise,I am totally shocked!,surprise
+sad,Nothing is going right.,sad
+surprise,That's unbelievable!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+fear,This is terrifying.,fear
+angry,This makes me so mad!,angry
+disgust,This is the worst thing ever.,disgust
+sad,I am feeling blue.,sad
+disgust,This is so gross!,disgust
+angry,I can't stand this!,angry
+sad,Nothing is going right.,sad
+surprise,I can't believe it!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+sad,I am feeling blue.,sad
+surprise,I can't believe it!,surprise
+sad,This is heartbreaking.,sad
+happy,I love this!,happy
+fear,I am really scared.,fear
+neutral,I am okay.,neutral
+sad,I am feeling blue.,sad
+neutral,I am okay.,neutral
+disgust,I can't stand the smell.,disgust
+fear,I don't know what to do!,fear
+neutral,Just another normal day.,neutral
+disgust,This is the worst thing ever.,disgust
+fear,My heart is racing!,fear
+happy,Best day ever!,happy
+neutral,Just another normal day.,neutral
+happy,What a beautiful day!,happy
+neutral,It's an average experience.,neutral
+happy,What a beautiful day!,happy
+neutral,I am okay.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I can't stand the smell.,disgust
+sad,Nothing is going right.,sad
+happy,Best day ever!,happy
+fear,I am feeling anxious.,fear
+neutral,I am okay.,neutral
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+surprise,That's unbelievable!,surprise
+angry,I am furious right now!,angry
+disgust,I feel sick looking at this.,disgust
+neutral,Feeling neutral about this.,neutral
+fear,I don't know what to do!,fear
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+fear,I don't know what to do!,fear
+disgust,I can't stand the smell.,disgust
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+happy,Feeling great today!,happy
+fear,I am feeling anxious.,fear
+fear,My heart is racing!,fear
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+angry,I can't stand this!,angry
+fear,I don't know what to do!,fear
+neutral,Feeling neutral about this.,neutral
+neutral,I am okay.,neutral
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+surprise,I am totally shocked!,surprise
+neutral,Feeling neutral about this.,neutral
+surprise,I am totally shocked!,surprise
+surprise,I am totally shocked!,surprise
+sad,I miss you so much.,sad
+neutral,Nothing much to say.,sad
+angry,I can't stand this!,angry
+surprise,This is amazing!,surprise
+happy,I love this!,happy
+neutral,It's an average experience.,neutral
+disgust,I can't stand the smell.,disgust
+angry,I can't stand this!,angry
+fear,I am really scared.,fear
+angry,I am furious right now!,angry
+angry,I am furious right now!,angry
+sad,I feel so down.,sad
+happy,So happy to see you!,happy
+surprise,"Wow, I didn't expect that!",surprise
+neutral,It's an average experience.,neutral
+surprise,This is amazing!,surprise
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+sad,I am feeling blue.,sad
+disgust,Absolutely disgusting!,disgust
+sad,Nothing is going right.,sad
+neutral,Nothing much to say.,sad
+angry,This makes me so mad!,angry
+fear,I am feeling anxious.,fear
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+fear,I don't know what to do!,fear
+surprise,This is amazing!,surprise
+neutral,Just another normal day.,neutral
+neutral,It's an average experience.,neutral
+disgust,I feel sick looking at this.,disgust
+disgust,I can't stand the smell.,disgust
+disgust,This is so gross!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+disgust,Absolutely disgusting!,disgust
+happy,Feeling great today!,happy
+fear,My heart is racing!,fear
+neutral,Just another normal day.,neutral
+surprise,That's unbelievable!,surprise
+surprise,I can't believe it!,surprise
+disgust,I feel sick looking at this.,disgust
+fear,I don't know what to do!,fear
+surprise,"Wow, I didn't expect that!",surprise
+fear,I don't know what to do!,fear
+disgust,I can't stand the smell.,disgust
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+happy,Feeling great today!,happy
+fear,My heart is racing!,fear
+happy,Feeling great today!,happy
+sad,Nothing is going right.,sad
+fear,I am feeling anxious.,fear
+fear,I am really scared.,fear
+surprise,This is amazing!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+angry,I can't stand this!,angry
+fear,I don't know what to do!,fear
+happy,Feeling great today!,happy
+angry,I can't stand this!,angry
+surprise,That's unbelievable!,surprise
+fear,This is terrifying.,fear
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+happy,Best day ever!,happy
+sad,I miss you so much.,sad
+neutral,I am okay.,neutral
+disgust,This is the worst thing ever.,disgust
+sad,I miss you so much.,sad
+angry,I can't stand this!,angry
+angry,Stop annoying me!,angry
+happy,Best day ever!,happy
+neutral,It's an average experience.,neutral
+disgust,I feel sick looking at this.,disgust
+angry,I am furious right now!,angry
+disgust,Absolutely disgusting!,disgust
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+angry,I can't stand this!,angry
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+neutral,It's an average experience.,neutral
+fear,This is terrifying.,fear
+happy,So happy to see you!,happy
+angry,I am furious right now!,angry
+surprise,I can't believe it!,surprise
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+neutral,Feeling neutral about this.,neutral
+neutral,Feeling neutral about this.,neutral
+surprise,I can't believe it!,surprise
+disgust,Absolutely disgusting!,disgust
+fear,This is terrifying.,fear
+angry,This is unacceptable!,angry
+surprise,That's unbelievable!,surprise
+neutral,It's an average experience.,neutral
+surprise,I can't believe it!,surprise
+happy,Best day ever!,happy
+happy,What a beautiful day!,happy
+neutral,It's an average experience.,neutral
+happy,So happy to see you!,happy
+happy,What a beautiful day!,happy
+happy,Best day ever!,happy
+angry,I can't stand this!,angry
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+fear,I don't know what to do!,fear
+sad,I feel so down.,sad
+angry,I am furious right now!,angry
+happy,So happy to see you!,happy
+sad,Nothing is going right.,sad
+sad,I am feeling blue.,sad
+disgust,This is the worst thing ever.,disgust
+surprise,I can't believe it!,surprise
+angry,I am furious right now!,angry
+surprise,"Wow, I didn't expect that!",surprise
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+sad,I am feeling blue.,sad
+neutral,It's an average experience.,neutral
+sad,Nothing is going right.,sad
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+neutral,It's an average experience.,neutral
+angry,Stop annoying me!,angry
+disgust,I can't stand the smell.,disgust
+sad,I feel so down.,sad
+sad,This is heartbreaking.,sad
+fear,I am feeling anxious.,fear
+happy,Feeling great today!,happy
+surprise,That's unbelievable!,surprise
+neutral,It's an average experience.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+surprise,This is amazing!,surprise
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+sad,I miss you so much.,sad
+disgust,This is so gross!,disgust
+sad,This is heartbreaking.,sad
+fear,I am feeling anxious.,fear
+fear,I am feeling anxious.,fear
+surprise,"Wow, I didn't expect that!",surprise
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+sad,I am feeling blue.,sad
+angry,This is unacceptable!,angry
+happy,Feeling great today!,happy
+fear,This is terrifying.,fear
+angry,This makes me so mad!,angry
+surprise,I can't believe it!,surprise
+sad,Nothing is going right.,sad
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+angry,This is unacceptable!,angry
+disgust,I can't stand the smell.,disgust
+surprise,I am totally shocked!,surprise
+sad,I miss you so much.,sad
+fear,My heart is racing!,fear
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+angry,I can't stand this!,angry
+neutral,Feeling neutral about this.,neutral
+sad,This is heartbreaking.,sad
+fear,I don't know what to do!,fear
+fear,I am really scared.,fear
+happy,So happy to see you!,happy
+neutral,I am okay.,neutral
+neutral,I am okay.,neutral
+angry,Stop annoying me!,angry
+happy,So happy to see you!,happy
+surprise,I can't believe it!,surprise
+sad,This is heartbreaking.,sad
+fear,My heart is racing!,fear
+surprise,This is amazing!,surprise
+fear,I don't know what to do!,fear
+surprise,I can't believe it!,surprise
+angry,This makes me so mad!,angry
+angry,This makes me so mad!,angry
+angry,Stop annoying me!,angry
+happy,Best day ever!,happy
+neutral,Just another normal day.,neutral
+neutral,I am okay.,neutral
+angry,I am furious right now!,angry
+neutral,It's an average experience.,neutral
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+disgust,This is the worst thing ever.,disgust
+disgust,Absolutely disgusting!,disgust
+neutral,It's an average experience.,neutral
+sad,I am feeling blue.,sad
+neutral,Nothing much to say.,sad
+fear,My heart is racing!,fear
+surprise,I can't believe it!,surprise
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+neutral,Nothing much to say.,sad
+disgust,Absolutely disgusting!,disgust
+happy,I love this!,happy
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+happy,Feeling great today!,happy
+sad,I am feeling blue.,sad
+surprise,"Wow, I didn't expect that!",surprise
+surprise,"Wow, I didn't expect that!",surprise
+sad,Nothing is going right.,sad
+disgust,I feel sick looking at this.,disgust
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+disgust,I can't stand the smell.,disgust
+surprise,I am totally shocked!,surprise
+happy,I love this!,happy
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+disgust,This is the worst thing ever.,disgust
+neutral,It's an average experience.,neutral
+disgust,This is so gross!,disgust
+disgust,I can't stand the smell.,disgust
+happy,What a beautiful day!,happy
+angry,Stop annoying me!,angry
+sad,I am feeling blue.,sad
+fear,I don't know what to do!,fear
+surprise,I am totally shocked!,surprise
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+neutral,Feeling neutral about this.,neutral
+happy,Best day ever!,happy
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+happy,What a beautiful day!,happy
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+sad,I am feeling blue.,sad
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+surprise,This is amazing!,surprise
+surprise,I can't believe it!,surprise
+surprise,That's unbelievable!,surprise
+disgust,I feel sick looking at this.,disgust
+angry,Stop annoying me!,angry
+fear,I am really scared.,fear
+happy,Feeling great today!,happy
+disgust,I can't stand the smell.,disgust
+angry,I can't stand this!,angry
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+disgust,This is so gross!,disgust
+sad,I feel so down.,sad
+fear,I don't know what to do!,fear
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+neutral,Feeling neutral about this.,neutral
+angry,This makes me so mad!,angry
+surprise,"Wow, I didn't expect that!",surprise
+sad,Nothing is going right.,sad
+fear,I am feeling anxious.,fear
+angry,Stop annoying me!,angry
+neutral,Nothing much to say.,sad
+angry,Stop annoying me!,angry
+sad,I am feeling blue.,sad
+surprise,I can't believe it!,surprise
+fear,My heart is racing!,fear
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Nothing much to say.,sad
+disgust,I feel sick looking at this.,disgust
+disgust,This is the worst thing ever.,disgust
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+neutral,Feeling neutral about this.,neutral
+angry,I am furious right now!,angry
+surprise,"Wow, I didn't expect that!",surprise
+surprise,This is amazing!,surprise
+neutral,I am okay.,neutral
+happy,Best day ever!,happy
+sad,I am feeling blue.,sad
+neutral,Feeling neutral about this.,neutral
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+disgust,Absolutely disgusting!,disgust
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+sad,I am feeling blue.,sad
+happy,So happy to see you!,happy
+neutral,Nothing much to say.,sad
+fear,I don't know what to do!,fear
+sad,I feel so down.,sad
+fear,My heart is racing!,fear
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+fear,I am really scared.,fear
+neutral,Feeling neutral about this.,neutral
+disgust,I can't stand the smell.,disgust
+angry,I am furious right now!,angry
+surprise,This is amazing!,surprise
+angry,This makes me so mad!,angry
+neutral,Nothing much to say.,sad
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+disgust,I can't stand the smell.,disgust
+happy,Feeling great today!,happy
+neutral,I am okay.,neutral
+fear,I am really scared.,fear
+sad,Nothing is going right.,sad
+angry,This is unacceptable!,angry
+angry,Stop annoying me!,angry
+sad,I feel so down.,sad
+happy,What a beautiful day!,happy
+fear,This is terrifying.,fear
+happy,I love this!,happy
+disgust,This is the worst thing ever.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+happy,So happy to see you!,happy
+disgust,I can't stand the smell.,disgust
+surprise,That's unbelievable!,surprise
+neutral,I am okay.,neutral
+angry,This makes me so mad!,angry
+disgust,This is so gross!,disgust
+sad,I feel so down.,sad
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+sad,I feel so down.,sad
+fear,I don't know what to do!,fear
+sad,I am feeling blue.,sad
+fear,I am really scared.,fear
+neutral,It's an average experience.,neutral
+angry,I am furious right now!,angry
+happy,I love this!,happy
+happy,Best day ever!,happy
+neutral,Nothing much to say.,sad
+fear,I don't know what to do!,fear
+sad,I miss you so much.,sad
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+fear,I am really scared.,fear
+sad,I am feeling blue.,sad
+surprise,I can't believe it!,surprise
+disgust,This is the worst thing ever.,disgust
+sad,Nothing is going right.,sad
+neutral,It's an average experience.,neutral
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+angry,I can't stand this!,angry
+neutral,Feeling neutral about this.,neutral
+angry,I am furious right now!,angry
+disgust,I can't stand the smell.,disgust
+happy,So happy to see you!,happy
+fear,I am feeling anxious.,fear
+angry,This makes me so mad!,angry
+sad,I am feeling blue.,sad
+disgust,I feel sick looking at this.,disgust
+angry,Stop annoying me!,angry
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+disgust,This is so gross!,disgust
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+angry,This makes me so mad!,angry
+fear,This is terrifying.,fear
+sad,I feel so down.,sad
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+disgust,I feel sick looking at this.,disgust
+angry,I can't stand this!,angry
+happy,What a beautiful day!,happy
+angry,I am furious right now!,angry
+angry,I can't stand this!,angry
+happy,Feeling great today!,happy
+neutral,I am okay.,neutral
+sad,I am feeling blue.,sad
+disgust,This is the worst thing ever.,disgust
+disgust,This is so gross!,disgust
+angry,Stop annoying me!,angry
+happy,So happy to see you!,happy
+happy,What a beautiful day!,happy
+angry,This makes me so mad!,angry
+surprise,I can't believe it!,surprise
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+happy,Feeling great today!,happy
+fear,I am really scared.,fear
+angry,This is unacceptable!,angry
+disgust,This is the worst thing ever.,disgust
+angry,I am furious right now!,angry
+happy,Best day ever!,happy
+angry,I am furious right now!,angry
+surprise,I can't believe it!,surprise
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+angry,This is unacceptable!,angry
+surprise,I can't believe it!,surprise
+neutral,It's an average experience.,neutral
+sad,I miss you so much.,sad
+surprise,I am totally shocked!,surprise
+surprise,I can't believe it!,surprise
+fear,I am feeling anxious.,fear
+fear,My heart is racing!,fear
+surprise,This is amazing!,surprise
+surprise,That's unbelievable!,surprise
+angry,I can't stand this!,angry
+surprise,That's unbelievable!,surprise
+surprise,This is amazing!,surprise
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+neutral,Nothing much to say.,sad
+angry,Stop annoying me!,angry
+sad,I miss you so much.,sad
+neutral,Just another normal day.,neutral
+surprise,I am totally shocked!,surprise
+disgust,I feel sick looking at this.,disgust
+neutral,It's an average experience.,neutral
+neutral,Feeling neutral about this.,neutral
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+neutral,Nothing much to say.,sad
+sad,I feel so down.,sad
+happy,I love this!,happy
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+fear,This is terrifying.,fear
+angry,I can't stand this!,angry
+happy,What a beautiful day!,happy
+surprise,I can't believe it!,surprise
+happy,So happy to see you!,happy
+happy,So happy to see you!,happy
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+fear,My heart is racing!,fear
+sad,I feel so down.,sad
+fear,My heart is racing!,fear
+neutral,It's an average experience.,neutral
+sad,Nothing is going right.,sad
+angry,Stop annoying me!,angry
+angry,This makes me so mad!,angry
+disgust,I feel sick looking at this.,disgust
+sad,I am feeling blue.,sad
+surprise,That's unbelievable!,surprise
+angry,This makes me so mad!,angry
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+happy,What a beautiful day!,happy
+sad,This is heartbreaking.,sad
+surprise,"Wow, I didn't expect that!",surprise
+happy,I love this!,happy
+neutral,Just another normal day.,neutral
+surprise,This is amazing!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I can't stand the smell.,disgust
+neutral,Just another normal day.,neutral
+angry,I am furious right now!,angry
+disgust,This is so gross!,disgust
+neutral,Feeling neutral about this.,neutral
+neutral,Just another normal day.,neutral
+happy,Best day ever!,happy
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+sad,I miss you so much.,sad
+surprise,That's unbelievable!,surprise
+angry,I can't stand this!,angry
+surprise,That's unbelievable!,surprise
+angry,I can't stand this!,angry
+sad,Nothing is going right.,sad
+neutral,Nothing much to say.,sad
+disgust,I feel sick looking at this.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+neutral,It's an average experience.,neutral
+angry,I can't stand this!,angry
+neutral,I am okay.,neutral
+sad,Nothing is going right.,sad
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+fear,I am feeling anxious.,fear
+happy,Best day ever!,happy
+neutral,Feeling neutral about this.,neutral
+angry,I can't stand this!,angry
+sad,I am feeling blue.,sad
+surprise,That's unbelievable!,surprise
+sad,I feel so down.,sad
+sad,I miss you so much.,sad
+angry,I can't stand this!,angry
+happy,Feeling great today!,happy
+sad,This is heartbreaking.,sad
+fear,My heart is racing!,fear
+sad,I feel so down.,sad
+neutral,Feeling neutral about this.,neutral
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+sad,Nothing is going right.,sad
+disgust,Absolutely disgusting!,disgust
+surprise,I can't believe it!,surprise
+surprise,I can't believe it!,surprise
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+fear,I am really scared.,fear
+sad,Nothing is going right.,sad
+sad,I feel so down.,sad
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+fear,My heart is racing!,fear
+fear,I am really scared.,fear
+neutral,I am okay.,neutral
+happy,What a beautiful day!,happy
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+disgust,Absolutely disgusting!,disgust
+sad,Nothing is going right.,sad
+disgust,Absolutely disgusting!,disgust
+disgust,I can't stand the smell.,disgust
+neutral,I am okay.,neutral
+disgust,Absolutely disgusting!,disgust
+happy,So happy to see you!,happy
+surprise,That's unbelievable!,surprise
+surprise,I can't believe it!,surprise
+happy,So happy to see you!,happy
+surprise,This is amazing!,surprise
+neutral,Feeling neutral about this.,neutral
+sad,Nothing is going right.,sad
+sad,Nothing is going right.,sad
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+happy,Feeling great today!,happy
+disgust,I feel sick looking at this.,disgust
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+disgust,This is so gross!,disgust
+surprise,I can't believe it!,surprise
+disgust,I can't stand the smell.,disgust
+happy,Best day ever!,happy
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+angry,This is unacceptable!,angry
+disgust,Absolutely disgusting!,disgust
+neutral,Just another normal day.,neutral
+sad,I feel so down.,sad
+fear,I am feeling anxious.,fear
+happy,Feeling great today!,happy
+angry,I am furious right now!,angry
+surprise,"Wow, I didn't expect that!",surprise
+happy,I love this!,happy
+disgust,This is the worst thing ever.,disgust
+angry,I can't stand this!,angry
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+disgust,I can't stand the smell.,disgust
+neutral,I am okay.,neutral
+angry,This is unacceptable!,angry
+sad,I miss you so much.,sad
+fear,I don't know what to do!,fear
+neutral,I am okay.,neutral
+neutral,It's an average experience.,neutral
+disgust,I can't stand the smell.,disgust
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+sad,Nothing is going right.,sad
+fear,This is terrifying.,fear
+disgust,This is so gross!,disgust
+disgust,I can't stand the smell.,disgust
+happy,What a beautiful day!,happy
+angry,This makes me so mad!,angry
+happy,So happy to see you!,happy
+sad,Nothing is going right.,sad
+surprise,That's unbelievable!,surprise
+surprise,That's unbelievable!,surprise
+neutral,Feeling neutral about this.,neutral
+happy,So happy to see you!,happy
+sad,I feel so down.,sad
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+disgust,This is so gross!,disgust
+neutral,Just another normal day.,neutral
+angry,This is unacceptable!,angry
+surprise,I am totally shocked!,surprise
+fear,I am feeling anxious.,fear
+angry,I can't stand this!,angry
+neutral,Feeling neutral about this.,neutral
+neutral,I am okay.,neutral
+surprise,I can't believe it!,surprise
+fear,I am feeling anxious.,fear
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+disgust,I feel sick looking at this.,disgust
+neutral,It's an average experience.,neutral
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+fear,I am feeling anxious.,fear
+surprise,That's unbelievable!,surprise
+fear,My heart is racing!,fear
+sad,Nothing is going right.,sad
+sad,I am feeling blue.,sad
+angry,I can't stand this!,angry
+fear,I am feeling anxious.,fear
+neutral,I am okay.,neutral
+happy,What a beautiful day!,happy
+fear,This is terrifying.,fear
+happy,What a beautiful day!,happy
+sad,Nothing is going right.,sad
+happy,I love this!,happy
+happy,I love this!,happy
+happy,Best day ever!,happy
+fear,This is terrifying.,fear
+angry,Stop annoying me!,angry
+disgust,I can't stand the smell.,disgust
+surprise,I can't believe it!,surprise
+sad,Nothing is going right.,sad
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,This makes me so mad!,angry
+neutral,It's an average experience.,neutral
+disgust,This is so gross!,disgust
+happy,Feeling great today!,happy
+surprise,I can't believe it!,surprise
+happy,Feeling great today!,happy
+neutral,Just another normal day.,neutral
+neutral,Feeling neutral about this.,neutral
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+disgust,I can't stand the smell.,disgust
+disgust,I feel sick looking at this.,disgust
+angry,This is unacceptable!,angry
+surprise,This is amazing!,surprise
+sad,I miss you so much.,sad
+surprise,"Wow, I didn't expect that!",surprise
+sad,I feel so down.,sad
+angry,This makes me so mad!,angry
+angry,This is unacceptable!,angry
+neutral,It's an average experience.,neutral
+surprise,That's unbelievable!,surprise
+neutral,I am okay.,neutral
+neutral,I am okay.,neutral
+sad,Nothing is going right.,sad
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+fear,I don't know what to do!,fear
+happy,So happy to see you!,happy
+surprise,This is amazing!,surprise
+sad,Nothing is going right.,sad
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+neutral,Nothing much to say.,sad
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+sad,I am feeling blue.,sad
+sad,I feel so down.,sad
+disgust,This is the worst thing ever.,disgust
+happy,So happy to see you!,happy
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+sad,I am feeling blue.,sad
+happy,I love this!,happy
+happy,I love this!,happy
+fear,My heart is racing!,fear
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+fear,My heart is racing!,fear
+neutral,It's an average experience.,neutral
+neutral,Nothing much to say.,sad
+surprise,I can't believe it!,surprise
+happy,I love this!,happy
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+neutral,Just another normal day.,neutral
+neutral,I am okay.,neutral
+fear,My heart is racing!,fear
+angry,Stop annoying me!,angry
+happy,Best day ever!,happy
+angry,This is unacceptable!,angry
+disgust,Absolutely disgusting!,disgust
+surprise,This is amazing!,surprise
+sad,I feel so down.,sad
+neutral,Nothing much to say.,sad
+happy,Best day ever!,happy
+angry,This makes me so mad!,angry
+surprise,I am totally shocked!,surprise
+angry,This makes me so mad!,angry
+neutral,It's an average experience.,neutral
+angry,This makes me so mad!,angry
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+neutral,Just another normal day.,neutral
+sad,I am feeling blue.,sad
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+fear,This is terrifying.,fear
+angry,Stop annoying me!,angry
+disgust,This is the worst thing ever.,disgust
+neutral,It's an average experience.,neutral
+surprise,I can't believe it!,surprise
+sad,I miss you so much.,sad
+angry,I am furious right now!,angry
+neutral,Just another normal day.,neutral
+fear,I don't know what to do!,fear
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+angry,This is unacceptable!,angry
+sad,Nothing is going right.,sad
+neutral,Feeling neutral about this.,neutral
+fear,I am feeling anxious.,fear
+happy,Feeling great today!,happy
+angry,Stop annoying me!,angry
+neutral,Just another normal day.,neutral
+sad,I am feeling blue.,sad
+sad,This is heartbreaking.,sad
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+disgust,I can't stand the smell.,disgust
+neutral,I am okay.,neutral
+sad,I miss you so much.,sad
+angry,This is unacceptable!,angry
+happy,I love this!,happy
+sad,I miss you so much.,sad
+angry,Stop annoying me!,angry
+angry,I am furious right now!,angry
+happy,I love this!,happy
+sad,This is heartbreaking.,sad
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+surprise,"Wow, I didn't expect that!",surprise
+happy,What a beautiful day!,happy
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+neutral,I am okay.,neutral
+happy,So happy to see you!,happy
+neutral,It's an average experience.,neutral
+fear,My heart is racing!,fear
+fear,This is terrifying.,fear
+sad,I am feeling blue.,sad
+surprise,I am totally shocked!,surprise
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+neutral,Just another normal day.,neutral
+surprise,That's unbelievable!,surprise
+fear,I am really scared.,fear
+disgust,This is the worst thing ever.,disgust
+neutral,Feeling neutral about this.,neutral
+happy,Feeling great today!,happy
+sad,I feel so down.,sad
+surprise,"Wow, I didn't expect that!",surprise
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+happy,I love this!,happy
+neutral,Feeling neutral about this.,neutral
+neutral,It's an average experience.,neutral
+sad,This is heartbreaking.,sad
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+neutral,I am okay.,neutral
+angry,This makes me so mad!,angry
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+disgust,This is so gross!,disgust
+neutral,I am okay.,neutral
+sad,I miss you so much.,sad
+surprise,I can't believe it!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+angry,This is unacceptable!,angry
+surprise,This is amazing!,surprise
+surprise,I am totally shocked!,surprise
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+neutral,I am okay.,neutral
+angry,This makes me so mad!,angry
+happy,I love this!,happy
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+happy,I love this!,happy
+happy,I love this!,happy
+disgust,I can't stand the smell.,disgust
+happy,Feeling great today!,happy
+disgust,This is the worst thing ever.,disgust
+happy,Best day ever!,happy
+neutral,I am okay.,neutral
+happy,So happy to see you!,happy
+disgust,I feel sick looking at this.,disgust
+happy,So happy to see you!,happy
+fear,I am feeling anxious.,fear
+fear,I am really scared.,fear
+surprise,That's unbelievable!,surprise
+happy,Best day ever!,happy
+sad,This is heartbreaking.,sad
+fear,I don't know what to do!,fear
+angry,This is unacceptable!,angry
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+disgust,This is the worst thing ever.,disgust
+happy,Best day ever!,happy
+happy,What a beautiful day!,happy
+fear,My heart is racing!,fear
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+sad,This is heartbreaking.,sad
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+fear,I am really scared.,fear
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+neutral,Just another normal day.,neutral
+fear,This is terrifying.,fear
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+fear,This is terrifying.,fear
+neutral,Just another normal day.,neutral
+happy,Feeling great today!,happy
+happy,What a beautiful day!,happy
+angry,I can't stand this!,angry
+disgust,Absolutely disgusting!,disgust
+angry,I can't stand this!,angry
+neutral,I am okay.,neutral
+surprise,I am totally shocked!,surprise
+sad,I feel so down.,sad
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+disgust,I feel sick looking at this.,disgust
+sad,Nothing is going right.,sad
+sad,I miss you so much.,sad
+angry,Stop annoying me!,angry
+sad,I miss you so much.,sad
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+happy,Feeling great today!,happy
+happy,Best day ever!,happy
+happy,Feeling great today!,happy
+surprise,This is amazing!,surprise
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+happy,Feeling great today!,happy
+sad,Nothing is going right.,sad
+sad,I miss you so much.,sad
+sad,Nothing is going right.,sad
+angry,Stop annoying me!,angry
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+happy,What a beautiful day!,happy
+happy,I love this!,happy
+fear,I am really scared.,fear
+angry,Stop annoying me!,angry
+angry,This makes me so mad!,angry
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+neutral,Feeling neutral about this.,neutral
+happy,Best day ever!,happy
+neutral,Feeling neutral about this.,neutral
+fear,I am feeling anxious.,fear
+fear,This is terrifying.,fear
+angry,I can't stand this!,angry
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+angry,This is unacceptable!,angry
+angry,Stop annoying me!,angry
+neutral,I am okay.,neutral
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+sad,This is heartbreaking.,sad
+disgust,I feel sick looking at this.,disgust
+disgust,I can't stand the smell.,disgust
+happy,What a beautiful day!,happy
+fear,I don't know what to do!,fear
+happy,Feeling great today!,happy
+disgust,I can't stand the smell.,disgust
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+sad,I miss you so much.,sad
+sad,I am feeling blue.,sad
+disgust,Absolutely disgusting!,disgust
+sad,This is heartbreaking.,sad
+fear,I am feeling anxious.,fear
+disgust,This is the worst thing ever.,disgust
+sad,Nothing is going right.,sad
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+fear,I am feeling anxious.,fear
+angry,I can't stand this!,angry
+surprise,I am totally shocked!,surprise
+neutral,Nothing much to say.,sad
+angry,I am furious right now!,angry
+happy,What a beautiful day!,happy
+angry,This makes me so mad!,angry
+surprise,I can't believe it!,surprise
+happy,So happy to see you!,happy
+fear,I don't know what to do!,fear
+disgust,This is the worst thing ever.,disgust
+neutral,I am okay.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+happy,What a beautiful day!,happy
+happy,I love this!,happy
+fear,My heart is racing!,fear
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+happy,So happy to see you!,happy
+neutral,It's an average experience.,neutral
+neutral,I am okay.,neutral
+neutral,I am okay.,neutral
+disgust,I feel sick looking at this.,disgust
+disgust,Absolutely disgusting!,disgust
+fear,This is terrifying.,fear
+neutral,I am okay.,neutral
+fear,I am really scared.,fear
+neutral,Just another normal day.,neutral
+fear,My heart is racing!,fear
+sad,I feel so down.,sad
+disgust,Absolutely disgusting!,disgust
+sad,I feel so down.,sad
+neutral,I am okay.,neutral
+sad,I am feeling blue.,sad
+disgust,This is so gross!,disgust
+neutral,Just another normal day.,neutral
+sad,Nothing is going right.,sad
+angry,This makes me so mad!,angry
+fear,This is terrifying.,fear
+neutral,I am okay.,neutral
+neutral,Nothing much to say.,sad
+neutral,Just another normal day.,neutral
+disgust,This is the worst thing ever.,disgust
+fear,My heart is racing!,fear
+happy,Best day ever!,happy
+fear,This is terrifying.,fear
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+fear,I am really scared.,fear
+fear,I don't know what to do!,fear
+sad,Nothing is going right.,sad
+sad,Nothing is going right.,sad
+fear,I don't know what to do!,fear
+neutral,Just another normal day.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+sad,This is heartbreaking.,sad
+disgust,I can't stand the smell.,disgust
+neutral,Just another normal day.,neutral
+surprise,I can't believe it!,surprise
+neutral,Just another normal day.,neutral
+angry,This is unacceptable!,angry
+surprise,I am totally shocked!,surprise
+happy,What a beautiful day!,happy
+fear,I am feeling anxious.,fear
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+neutral,Nothing much to say.,sad
+happy,I love this!,happy
+neutral,Just another normal day.,neutral
+fear,I am feeling anxious.,fear
+happy,I love this!,happy
+neutral,It's an average experience.,neutral
+surprise,That's unbelievable!,surprise
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+happy,What a beautiful day!,happy
+fear,My heart is racing!,fear
+surprise,That's unbelievable!,surprise
+fear,I am really scared.,fear
+happy,So happy to see you!,happy
+happy,Best day ever!,happy
+surprise,That's unbelievable!,surprise
+surprise,I am totally shocked!,surprise
+neutral,I am okay.,neutral
+surprise,I can't believe it!,surprise
+angry,Stop annoying me!,angry
+sad,I miss you so much.,sad
+surprise,This is amazing!,surprise
+surprise,This is amazing!,surprise
+fear,My heart is racing!,fear
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+angry,Stop annoying me!,angry
+happy,What a beautiful day!,happy
+fear,I am really scared.,fear
+angry,Stop annoying me!,angry
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Just another normal day.,neutral
+surprise,I can't believe it!,surprise
+happy,What a beautiful day!,happy
+angry,I can't stand this!,angry
+sad,I am feeling blue.,sad
+sad,Nothing is going right.,sad
+surprise,I can't believe it!,surprise
+happy,I love this!,happy
+sad,I am feeling blue.,sad
+angry,I am furious right now!,angry
+neutral,Just another normal day.,neutral
+angry,I can't stand this!,angry
+disgust,I can't stand the smell.,disgust
+sad,I feel so down.,sad
+fear,This is terrifying.,fear
+disgust,This is the worst thing ever.,disgust
+fear,My heart is racing!,fear
+angry,I can't stand this!,angry
+disgust,This is so gross!,disgust
+disgust,Absolutely disgusting!,disgust
+sad,I miss you so much.,sad
+angry,This is unacceptable!,angry
+neutral,It's an average experience.,neutral
+angry,Stop annoying me!,angry
+surprise,This is amazing!,surprise
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+disgust,I feel sick looking at this.,disgust
+sad,This is heartbreaking.,sad
+disgust,I can't stand the smell.,disgust
+surprise,I can't believe it!,surprise
+fear,This is terrifying.,fear
+disgust,This is the worst thing ever.,disgust
+angry,This is unacceptable!,angry
+angry,I can't stand this!,angry
+happy,Best day ever!,happy
+sad,Nothing is going right.,sad
+fear,My heart is racing!,fear
+angry,I can't stand this!,angry
+sad,I feel so down.,sad
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+disgust,This is the worst thing ever.,disgust
+happy,Best day ever!,happy
+fear,My heart is racing!,fear
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+fear,I don't know what to do!,fear
+disgust,Absolutely disgusting!,disgust
+fear,I don't know what to do!,fear
+angry,This is unacceptable!,angry
+fear,I am really scared.,fear
+sad,This is heartbreaking.,sad
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+neutral,Feeling neutral about this.,neutral
+neutral,Nothing much to say.,sad
+angry,I am furious right now!,angry
+surprise,That's unbelievable!,surprise
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+angry,This is unacceptable!,angry
+surprise,"Wow, I didn't expect that!",surprise
+neutral,I am okay.,neutral
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+sad,I miss you so much.,sad
+neutral,It's an average experience.,neutral
+angry,This is unacceptable!,angry
+angry,This makes me so mad!,angry
+surprise,I am totally shocked!,surprise
+neutral,Nothing much to say.,sad
+disgust,This is the worst thing ever.,disgust
+neutral,Nothing much to say.,sad
+happy,Feeling great today!,happy
+angry,This is unacceptable!,angry
+neutral,Just another normal day.,neutral
+fear,I am really scared.,fear
+happy,What a beautiful day!,happy
+neutral,Nothing much to say.,sad
+surprise,That's unbelievable!,surprise
+happy,Feeling great today!,happy
+disgust,Absolutely disgusting!,disgust
+disgust,I can't stand the smell.,disgust
+disgust,This is the worst thing ever.,disgust
+fear,I don't know what to do!,fear
+neutral,It's an average experience.,neutral
+sad,I feel so down.,sad
+neutral,Nothing much to say.,sad
+happy,Best day ever!,happy
+neutral,Feeling neutral about this.,neutral
+angry,This is unacceptable!,angry
+surprise,That's unbelievable!,surprise
+happy,Feeling great today!,happy
+neutral,It's an average experience.,neutral
+disgust,This is the worst thing ever.,disgust
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+fear,I am really scared.,fear
+angry,I am furious right now!,angry
+sad,Nothing is going right.,sad
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+happy,Best day ever!,happy
+angry,Stop annoying me!,angry
+disgust,I can't stand the smell.,disgust
+disgust,Absolutely disgusting!,disgust
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+sad,I miss you so much.,sad
+happy,Feeling great today!,happy
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+angry,This is unacceptable!,angry
+happy,I love this!,happy
+disgust,I feel sick looking at this.,disgust
+happy,So happy to see you!,happy
+neutral,I am okay.,neutral
+angry,This makes me so mad!,angry
+fear,I am really scared.,fear
+surprise,"Wow, I didn't expect that!",surprise
+disgust,Absolutely disgusting!,disgust
+surprise,This is amazing!,surprise
+surprise,I am totally shocked!,surprise
+disgust,Absolutely disgusting!,disgust
+sad,This is heartbreaking.,sad
+surprise,I can't believe it!,surprise
+neutral,It's an average experience.,neutral
+neutral,Just another normal day.,neutral
+disgust,This is the worst thing ever.,disgust
+fear,This is terrifying.,fear
+surprise,This is amazing!,surprise
+sad,This is heartbreaking.,sad
+neutral,Just another normal day.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am really scared.,fear
+sad,I feel so down.,sad
+disgust,This is so gross!,disgust
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+neutral,Feeling neutral about this.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Just another normal day.,neutral
+angry,This is unacceptable!,angry
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+angry,Stop annoying me!,angry
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+fear,I don't know what to do!,fear
+fear,This is terrifying.,fear
+surprise,That's unbelievable!,surprise
+angry,This makes me so mad!,angry
+fear,This is terrifying.,fear
+surprise,I am totally shocked!,surprise
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+angry,Stop annoying me!,angry
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+surprise,That's unbelievable!,surprise
+neutral,I am okay.,neutral
+fear,I am really scared.,fear
+fear,I am really scared.,fear
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+fear,I am really scared.,fear
+sad,I am feeling blue.,sad
+surprise,I can't believe it!,surprise
+neutral,Feeling neutral about this.,neutral
+happy,I love this!,happy
+sad,I miss you so much.,sad
+fear,I am really scared.,fear
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+sad,I feel so down.,sad
+angry,This makes me so mad!,angry
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+angry,I can't stand this!,angry
+sad,I am feeling blue.,sad
+surprise,I can't believe it!,surprise
+angry,I am furious right now!,angry
+sad,I feel so down.,sad
+neutral,I am okay.,neutral
+angry,I am furious right now!,angry
+surprise,I am totally shocked!,surprise
+sad,I miss you so much.,sad
+angry,I am furious right now!,angry
+angry,Stop annoying me!,angry
+fear,I am really scared.,fear
+happy,So happy to see you!,happy
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+neutral,It's an average experience.,neutral
+neutral,I am okay.,neutral
+angry,This is unacceptable!,angry
+neutral,Just another normal day.,neutral
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+disgust,This is the worst thing ever.,disgust
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+surprise,That's unbelievable!,surprise
+fear,I don't know what to do!,fear
+happy,Best day ever!,happy
+angry,This makes me so mad!,angry
+angry,This makes me so mad!,angry
+sad,Nothing is going right.,sad
+disgust,Absolutely disgusting!,disgust
+sad,I am feeling blue.,sad
+angry,I am furious right now!,angry
+fear,My heart is racing!,fear
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+sad,Nothing is going right.,sad
+sad,I feel so down.,sad
+happy,What a beautiful day!,happy
+sad,Nothing is going right.,sad
+angry,I can't stand this!,angry
+sad,Nothing is going right.,sad
+angry,I am furious right now!,angry
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is the worst thing ever.,disgust
+sad,I miss you so much.,sad
+sad,I miss you so much.,sad
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+neutral,It's an average experience.,neutral
+surprise,This is amazing!,surprise
+neutral,Just another normal day.,neutral
+sad,This is heartbreaking.,sad
+neutral,I am okay.,neutral
+happy,Best day ever!,happy
+angry,This makes me so mad!,angry
+happy,I love this!,happy
+fear,My heart is racing!,fear
+surprise,I can't believe it!,surprise
+disgust,This is so gross!,disgust
+neutral,It's an average experience.,neutral
+disgust,Absolutely disgusting!,disgust
+sad,I am feeling blue.,sad
+fear,My heart is racing!,fear
+happy,I love this!,happy
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+fear,I am feeling anxious.,fear
+surprise,"Wow, I didn't expect that!",surprise
+happy,What a beautiful day!,happy
+disgust,I can't stand the smell.,disgust
+surprise,"Wow, I didn't expect that!",surprise
+sad,I miss you so much.,sad
+disgust,I can't stand the smell.,disgust
+neutral,Feeling neutral about this.,neutral
+sad,I am feeling blue.,sad
+sad,I am feeling blue.,sad
+surprise,I am totally shocked!,surprise
+neutral,Feeling neutral about this.,neutral
+surprise,That's unbelievable!,surprise
+fear,My heart is racing!,fear
+fear,This is terrifying.,fear
+happy,I love this!,happy
+happy,Feeling great today!,happy
+fear,I am really scared.,fear
+disgust,This is the worst thing ever.,disgust
+happy,I love this!,happy
+fear,I don't know what to do!,fear
+surprise,"Wow, I didn't expect that!",surprise
+happy,What a beautiful day!,happy
+surprise,This is amazing!,surprise
+fear,I don't know what to do!,fear
+sad,I miss you so much.,sad
+surprise,I am totally shocked!,surprise
+fear,I am feeling anxious.,fear
+happy,So happy to see you!,happy
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+happy,Best day ever!,happy
+sad,Nothing is going right.,sad
+happy,I love this!,happy
+surprise,That's unbelievable!,surprise
+neutral,Feeling neutral about this.,neutral
+sad,Nothing is going right.,sad
+disgust,I feel sick looking at this.,disgust
+happy,So happy to see you!,happy
+happy,Feeling great today!,happy
+sad,I miss you so much.,sad
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+angry,I can't stand this!,angry
+sad,I miss you so much.,sad
+surprise,I can't believe it!,surprise
+angry,Stop annoying me!,angry
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+happy,So happy to see you!,happy
+fear,I am really scared.,fear
+happy,I love this!,happy
+fear,I don't know what to do!,fear
+happy,Feeling great today!,happy
+angry,This makes me so mad!,angry
+neutral,I am okay.,neutral
+sad,This is heartbreaking.,sad
+happy,What a beautiful day!,happy
+neutral,Feeling neutral about this.,neutral
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+angry,I am furious right now!,angry
+fear,I don't know what to do!,fear
+fear,I don't know what to do!,fear
+neutral,Just another normal day.,neutral
+sad,I feel so down.,sad
+disgust,This is the worst thing ever.,disgust
+sad,I miss you so much.,sad
+fear,This is terrifying.,fear
+angry,I can't stand this!,angry
+happy,Feeling great today!,happy
+angry,I can't stand this!,angry
+happy,Best day ever!,happy
+angry,This is unacceptable!,angry
+sad,I feel so down.,sad
+angry,This makes me so mad!,angry
+happy,I love this!,happy
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+surprise,This is amazing!,surprise
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+surprise,That's unbelievable!,surprise
+angry,Stop annoying me!,angry
+surprise,That's unbelievable!,surprise
+surprise,I can't believe it!,surprise
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+surprise,I am totally shocked!,surprise
+surprise,I am totally shocked!,surprise
+sad,I am feeling blue.,sad
+disgust,I can't stand the smell.,disgust
+angry,Stop annoying me!,angry
+surprise,I am totally shocked!,surprise
+sad,I feel so down.,sad
+sad,This is heartbreaking.,sad
+neutral,Feeling neutral about this.,neutral
+sad,I am feeling blue.,sad
+neutral,Feeling neutral about this.,neutral
+neutral,Feeling neutral about this.,neutral
+angry,I am furious right now!,angry
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+neutral,It's an average experience.,neutral
+happy,I love this!,happy
+sad,I miss you so much.,sad
+angry,This makes me so mad!,angry
+happy,What a beautiful day!,happy
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+disgust,Absolutely disgusting!,disgust
+surprise,I am totally shocked!,surprise
+sad,I am feeling blue.,sad
+disgust,Absolutely disgusting!,disgust
+happy,I love this!,happy
+happy,I love this!,happy
+angry,This is unacceptable!,angry
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+surprise,"Wow, I didn't expect that!",surprise
+sad,I feel so down.,sad
+surprise,I can't believe it!,surprise
+neutral,Just another normal day.,neutral
+sad,Nothing is going right.,sad
+neutral,Nothing much to say.,sad
+surprise,That's unbelievable!,surprise
+happy,So happy to see you!,happy
+happy,So happy to see you!,happy
+surprise,I can't believe it!,surprise
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+surprise,"Wow, I didn't expect that!",surprise
+fear,I don't know what to do!,fear
+surprise,This is amazing!,surprise
+neutral,It's an average experience.,neutral
+happy,Feeling great today!,happy
+happy,Feeling great today!,happy
+neutral,Nothing much to say.,sad
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+disgust,I feel sick looking at this.,disgust
+neutral,It's an average experience.,neutral
+sad,Nothing is going right.,sad
+sad,Nothing is going right.,sad
+happy,What a beautiful day!,happy
+neutral,It's an average experience.,neutral
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+neutral,Feeling neutral about this.,neutral
+disgust,This is the worst thing ever.,disgust
+disgust,I can't stand the smell.,disgust
+fear,This is terrifying.,fear
+fear,This is terrifying.,fear
+fear,I am feeling anxious.,fear
+sad,This is heartbreaking.,sad
+fear,My heart is racing!,fear
+angry,This is unacceptable!,angry
+neutral,Just another normal day.,neutral
+fear,My heart is racing!,fear
+disgust,This is the worst thing ever.,disgust
+angry,I am furious right now!,angry
+neutral,Nothing much to say.,sad
+happy,Best day ever!,happy
+neutral,It's an average experience.,neutral
+neutral,Nothing much to say.,sad
+angry,This makes me so mad!,angry
+fear,I am really scared.,fear
+angry,This is unacceptable!,angry
+angry,Stop annoying me!,angry
+disgust,This is so gross!,disgust
+sad,Nothing is going right.,sad
+happy,What a beautiful day!,happy
+angry,I can't stand this!,angry
+fear,I am really scared.,fear
+fear,My heart is racing!,fear
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is the worst thing ever.,disgust
+sad,I am feeling blue.,sad
+neutral,Feeling neutral about this.,neutral
+neutral,Just another normal day.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+sad,I miss you so much.,sad
+fear,I am really scared.,fear
+angry,I am furious right now!,angry
+fear,My heart is racing!,fear
+fear,My heart is racing!,fear
+disgust,Absolutely disgusting!,disgust
+angry,I am furious right now!,angry
+surprise,This is amazing!,surprise
+happy,Best day ever!,happy
+surprise,That's unbelievable!,surprise
+neutral,Just another normal day.,neutral
+neutral,I am okay.,neutral
+happy,So happy to see you!,happy
+happy,I love this!,happy
+angry,I am furious right now!,angry
+happy,Best day ever!,happy
+neutral,Feeling neutral about this.,neutral
+fear,My heart is racing!,fear
+sad,I am feeling blue.,sad
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+fear,I don't know what to do!,fear
+surprise,This is amazing!,surprise
+happy,I love this!,happy
+angry,Stop annoying me!,angry
+fear,This is terrifying.,fear
+disgust,This is the worst thing ever.,disgust
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+disgust,This is so gross!,disgust
+surprise,"Wow, I didn't expect that!",surprise
+surprise,"Wow, I didn't expect that!",surprise
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+disgust,This is the worst thing ever.,disgust
+surprise,I can't believe it!,surprise
+neutral,It's an average experience.,neutral
+fear,I am feeling anxious.,fear
+neutral,It's an average experience.,neutral
+happy,I love this!,happy
+sad,I miss you so much.,sad
+sad,Nothing is going right.,sad
+angry,This makes me so mad!,angry
+fear,This is terrifying.,fear
+fear,I am really scared.,fear
+disgust,I feel sick looking at this.,disgust
+fear,I am feeling anxious.,fear
+neutral,It's an average experience.,neutral
+neutral,I am okay.,neutral
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+sad,I miss you so much.,sad
+angry,This makes me so mad!,angry
+disgust,I can't stand the smell.,disgust
+happy,So happy to see you!,happy
+disgust,I feel sick looking at this.,disgust
+surprise,I am totally shocked!,surprise
+happy,What a beautiful day!,happy
+fear,I am really scared.,fear
+happy,I love this!,happy
+neutral,Feeling neutral about this.,neutral
+disgust,This is the worst thing ever.,disgust
+angry,Stop annoying me!,angry
+happy,What a beautiful day!,happy
+sad,This is heartbreaking.,sad
+angry,This makes me so mad!,angry
+sad,Nothing is going right.,sad
+happy,What a beautiful day!,happy
+happy,Feeling great today!,happy
+neutral,I am okay.,neutral
+disgust,This is so gross!,disgust
+neutral,I am okay.,neutral
+neutral,I am okay.,neutral
+neutral,It's an average experience.,neutral
+disgust,This is so gross!,disgust
+angry,I can't stand this!,angry
+happy,What a beautiful day!,happy
+sad,This is heartbreaking.,sad
+disgust,I can't stand the smell.,disgust
+happy,I love this!,happy
+fear,I am feeling anxious.,fear
+happy,Best day ever!,happy
+surprise,I can't believe it!,surprise
+angry,I can't stand this!,angry
+sad,I feel so down.,sad
+surprise,"Wow, I didn't expect that!",surprise
+disgust,I feel sick looking at this.,disgust
+angry,This is unacceptable!,angry
+fear,My heart is racing!,fear
+surprise,This is amazing!,surprise
+fear,This is terrifying.,fear
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+angry,I am furious right now!,angry
+angry,I am furious right now!,angry
+disgust,Absolutely disgusting!,disgust
+fear,I don't know what to do!,fear
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+happy,Feeling great today!,happy
+happy,So happy to see you!,happy
+surprise,"Wow, I didn't expect that!",surprise
+sad,I feel so down.,sad
+angry,Stop annoying me!,angry
+fear,I am really scared.,fear
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+disgust,This is so gross!,disgust
+surprise,I can't believe it!,surprise
+surprise,I am totally shocked!,surprise
+angry,I am furious right now!,angry
+disgust,This is the worst thing ever.,disgust
+happy,I love this!,happy
+disgust,Absolutely disgusting!,disgust
+fear,I am feeling anxious.,fear
+angry,I can't stand this!,angry
+surprise,That's unbelievable!,surprise
+surprise,This is amazing!,surprise
+surprise,I can't believe it!,surprise
+angry,I can't stand this!,angry
+sad,I miss you so much.,sad
+sad,I feel so down.,sad
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+surprise,That's unbelievable!,surprise
+surprise,That's unbelievable!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+neutral,Feeling neutral about this.,neutral
+disgust,Absolutely disgusting!,disgust
+surprise,This is amazing!,surprise
+happy,What a beautiful day!,happy
+surprise,I can't believe it!,surprise
+surprise,This is amazing!,surprise
+sad,I miss you so much.,sad
+disgust,I feel sick looking at this.,disgust
+fear,I am really scared.,fear
+surprise,I am totally shocked!,surprise
+sad,Nothing is going right.,sad
+surprise,That's unbelievable!,surprise
+angry,This is unacceptable!,angry
+neutral,I am okay.,neutral
+fear,This is terrifying.,fear
+fear,This is terrifying.,fear
+fear,My heart is racing!,fear
+happy,Best day ever!,happy
+surprise,This is amazing!,surprise
+surprise,That's unbelievable!,surprise
+happy,I love this!,happy
+fear,I am really scared.,fear
+fear,This is terrifying.,fear
+surprise,I can't believe it!,surprise
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+happy,What a beautiful day!,happy
+happy,So happy to see you!,happy
+neutral,It's an average experience.,neutral
+fear,My heart is racing!,fear
+disgust,I can't stand the smell.,disgust
+sad,I miss you so much.,sad
+happy,Feeling great today!,happy
+surprise,I am totally shocked!,surprise
+disgust,I can't stand the smell.,disgust
+neutral,It's an average experience.,neutral
+surprise,This is amazing!,surprise
+neutral,Just another normal day.,neutral
+neutral,Just another normal day.,neutral
+happy,What a beautiful day!,happy
+fear,This is terrifying.,fear
+disgust,I feel sick looking at this.,disgust
+sad,I feel so down.,sad
+angry,I am furious right now!,angry
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+sad,This is heartbreaking.,sad
+angry,This is unacceptable!,angry
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+happy,Best day ever!,happy
+happy,What a beautiful day!,happy
+happy,I love this!,happy
+fear,I don't know what to do!,fear
+disgust,I feel sick looking at this.,disgust
+surprise,This is amazing!,surprise
+disgust,This is so gross!,disgust
+happy,So happy to see you!,happy
+sad,I am feeling blue.,sad
+disgust,This is so gross!,disgust
+angry,This makes me so mad!,angry
+surprise,That's unbelievable!,surprise
+surprise,That's unbelievable!,surprise
+angry,This is unacceptable!,angry
+sad,I am feeling blue.,sad
+neutral,Just another normal day.,neutral
+angry,This makes me so mad!,angry
+angry,This makes me so mad!,angry
+fear,I am feeling anxious.,fear
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+angry,This makes me so mad!,angry
+surprise,I can't believe it!,surprise
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+disgust,I can't stand the smell.,disgust
+angry,This is unacceptable!,angry
+disgust,I feel sick looking at this.,disgust
+disgust,This is so gross!,disgust
+disgust,This is so gross!,disgust
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+happy,So happy to see you!,happy
+angry,I can't stand this!,angry
+surprise,I am totally shocked!,surprise
+disgust,This is the worst thing ever.,disgust
+surprise,That's unbelievable!,surprise
+disgust,This is so gross!,disgust
+angry,This is unacceptable!,angry
+angry,This is unacceptable!,angry
+fear,I am feeling anxious.,fear
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+disgust,This is the worst thing ever.,disgust
+disgust,I feel sick looking at this.,disgust
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+disgust,This is so gross!,disgust
+disgust,This is the worst thing ever.,disgust
+disgust,This is so gross!,disgust
+happy,Feeling great today!,happy
+fear,This is terrifying.,fear
+surprise,That's unbelievable!,surprise
+fear,I am really scared.,fear
+happy,Feeling great today!,happy
+surprise,"Wow, I didn't expect that!",surprise
+fear,I am feeling anxious.,fear
+disgust,This is the worst thing ever.,disgust
+fear,I am really scared.,fear
+sad,I am feeling blue.,sad
+happy,What a beautiful day!,happy
+disgust,Absolutely disgusting!,disgust
+surprise,I am totally shocked!,surprise
+fear,My heart is racing!,fear
+happy,Best day ever!,happy
+surprise,That's unbelievable!,surprise
+neutral,Just another normal day.,neutral
+sad,I miss you so much.,sad
+fear,I don't know what to do!,fear
+surprise,I am totally shocked!,surprise
+happy,So happy to see you!,happy
+fear,I am feeling anxious.,fear
+neutral,Feeling neutral about this.,neutral
+fear,This is terrifying.,fear
+happy,Feeling great today!,happy
+disgust,I can't stand the smell.,disgust
+sad,This is heartbreaking.,sad
+disgust,Absolutely disgusting!,disgust
+angry,Stop annoying me!,angry
+sad,Nothing is going right.,sad
+neutral,Just another normal day.,neutral
+sad,I am feeling blue.,sad
+sad,I am feeling blue.,sad
+disgust,I can't stand the smell.,disgust
+neutral,Just another normal day.,neutral
+happy,Best day ever!,happy
+happy,Best day ever!,happy
+surprise,I can't believe it!,surprise
+fear,I don't know what to do!,fear
+disgust,This is so gross!,disgust
+happy,I love this!,happy
+neutral,I am okay.,neutral
+fear,I am feeling anxious.,fear
+disgust,This is the worst thing ever.,disgust
+angry,I am furious right now!,angry
+sad,This is heartbreaking.,sad
+sad,I am feeling blue.,sad
+fear,I am really scared.,fear
+angry,This is unacceptable!,angry
+sad,Nothing is going right.,sad
+fear,I am really scared.,fear
+neutral,Nothing much to say.,sad
+disgust,This is so gross!,disgust
+happy,I love this!,happy
+neutral,I am okay.,neutral
+surprise,I am totally shocked!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+disgust,This is the worst thing ever.,disgust
+happy,Feeling great today!,happy
+happy,So happy to see you!,happy
+neutral,I am okay.,neutral
+happy,Feeling great today!,happy
+happy,Best day ever!,happy
+surprise,I am totally shocked!,surprise
+fear,I don't know what to do!,fear
+disgust,This is the worst thing ever.,disgust
+happy,So happy to see you!,happy
+surprise,"Wow, I didn't expect that!",surprise
+sad,I feel so down.,sad
+disgust,I feel sick looking at this.,disgust
+disgust,This is so gross!,disgust
+disgust,Absolutely disgusting!,disgust
+happy,So happy to see you!,happy
+surprise,I can't believe it!,surprise
+angry,This makes me so mad!,angry
+angry,I can't stand this!,angry
+surprise,This is amazing!,surprise
+sad,Nothing is going right.,sad
+disgust,Absolutely disgusting!,disgust
+happy,Feeling great today!,happy
+angry,This is unacceptable!,angry
+angry,Stop annoying me!,angry
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+fear,My heart is racing!,fear
+sad,I feel so down.,sad
+angry,This makes me so mad!,angry
+angry,I can't stand this!,angry
+sad,I am feeling blue.,sad
+happy,I love this!,happy
+neutral,Just another normal day.,neutral
+surprise,This is amazing!,surprise
+angry,This makes me so mad!,angry
+sad,Nothing is going right.,sad
+fear,My heart is racing!,fear
+happy,So happy to see you!,happy
+sad,Nothing is going right.,sad
+angry,Stop annoying me!,angry
+neutral,It's an average experience.,neutral
+surprise,I can't believe it!,surprise
+surprise,"Wow, I didn't expect that!",surprise
+neutral,I am okay.,neutral
+angry,I am furious right now!,angry
+neutral,Just another normal day.,neutral
+sad,I miss you so much.,sad
+happy,Feeling great today!,happy
+happy,So happy to see you!,happy
+neutral,I am okay.,neutral
+sad,Nothing is going right.,sad
+sad,This is heartbreaking.,sad
+fear,My heart is racing!,fear
+surprise,I am totally shocked!,surprise
+neutral,I am okay.,neutral
+fear,I am really scared.,fear
+surprise,I can't believe it!,surprise
+happy,So happy to see you!,happy
+sad,Nothing is going right.,sad
+angry,This is unacceptable!,angry
+neutral,Nothing much to say.,sad
+angry,I am furious right now!,angry
+angry,I am furious right now!,angry
+disgust,Absolutely disgusting!,disgust
+disgust,I can't stand the smell.,disgust
+sad,I am feeling blue.,sad
+neutral,Just another normal day.,neutral
+surprise,This is amazing!,surprise
+happy,So happy to see you!,happy
+happy,I love this!,happy
+disgust,This is the worst thing ever.,disgust
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+surprise,This is amazing!,surprise
+sad,I feel so down.,sad
+surprise,"Wow, I didn't expect that!",surprise
+angry,I can't stand this!,angry
+happy,I love this!,happy
+surprise,"Wow, I didn't expect that!",surprise
+fear,My heart is racing!,fear
+sad,This is heartbreaking.,sad
+neutral,Just another normal day.,neutral
+angry,I am furious right now!,angry
+neutral,I am okay.,neutral
+fear,I don't know what to do!,fear
+surprise,That's unbelievable!,surprise
+angry,I can't stand this!,angry
+surprise,I can't believe it!,surprise
+neutral,It's an average experience.,neutral
+angry,Stop annoying me!,angry
+neutral,I am okay.,neutral
+angry,This makes me so mad!,angry
+happy,I love this!,happy
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+happy,What a beautiful day!,happy
+happy,Best day ever!,happy
+fear,I don't know what to do!,fear
+disgust,This is the worst thing ever.,disgust
+angry,Stop annoying me!,angry
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+fear,This is terrifying.,fear
+surprise,I can't believe it!,surprise
+happy,I love this!,happy
+neutral,Nothing much to say.,sad
+sad,I am feeling blue.,sad
+angry,I can't stand this!,angry
+surprise,That's unbelievable!,surprise
+sad,I am feeling blue.,sad
+happy,Best day ever!,happy
+angry,I can't stand this!,angry
+surprise,I am totally shocked!,surprise
+neutral,I am okay.,neutral
+fear,I am feeling anxious.,fear
+disgust,I feel sick looking at this.,disgust
+angry,This is unacceptable!,angry
+disgust,Absolutely disgusting!,disgust
+sad,I miss you so much.,sad
+disgust,Absolutely disgusting!,disgust
+neutral,Just another normal day.,neutral
+neutral,It's an average experience.,neutral
+neutral,Just another normal day.,neutral
+happy,I love this!,happy
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+sad,This is heartbreaking.,sad
+neutral,It's an average experience.,neutral
+sad,I feel so down.,sad
+fear,I am really scared.,fear
+fear,I am feeling anxious.,fear
+sad,I am feeling blue.,sad
+angry,This makes me so mad!,angry
+sad,Nothing is going right.,sad
+fear,This is terrifying.,fear
+disgust,I can't stand the smell.,disgust
+angry,I can't stand this!,angry
+happy,So happy to see you!,happy
+neutral,I am okay.,neutral
+fear,My heart is racing!,fear
+fear,I am really scared.,fear
+surprise,I am totally shocked!,surprise
+sad,Nothing is going right.,sad
+disgust,Absolutely disgusting!,disgust
+sad,Nothing is going right.,sad
+sad,I feel so down.,sad
+angry,I am furious right now!,angry
+neutral,I am okay.,neutral
+neutral,Nothing much to say.,sad
+fear,I don't know what to do!,fear
+angry,I am furious right now!,angry
+neutral,It's an average experience.,neutral
+disgust,This is the worst thing ever.,disgust
+happy,What a beautiful day!,happy
+angry,Stop annoying me!,angry
+fear,I am feeling anxious.,fear
+disgust,This is so gross!,disgust
+happy,What a beautiful day!,happy
+sad,I miss you so much.,sad
+neutral,It's an average experience.,neutral
+neutral,It's an average experience.,neutral
+angry,I am furious right now!,angry
+disgust,I feel sick looking at this.,disgust
+sad,I miss you so much.,sad
+happy,Best day ever!,happy
+surprise,"Wow, I didn't expect that!",surprise
+happy,I love this!,happy
+neutral,I am okay.,neutral
+disgust,I can't stand the smell.,disgust
+neutral,It's an average experience.,neutral
+fear,My heart is racing!,fear
+happy,So happy to see you!,happy
+disgust,Absolutely disgusting!,disgust
+surprise,This is amazing!,surprise
+happy,Best day ever!,happy
+surprise,This is amazing!,surprise
+sad,I feel so down.,sad
+happy,I love this!,happy
+happy,I love this!,happy
+sad,Nothing is going right.,sad
+happy,What a beautiful day!,happy
+surprise,I am totally shocked!,surprise
+sad,I feel so down.,sad
+angry,I can't stand this!,angry
+sad,I am feeling blue.,sad
+fear,This is terrifying.,fear
+sad,Nothing is going right.,sad
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+happy,What a beautiful day!,happy
+happy,I love this!,happy
+angry,Stop annoying me!,angry
+neutral,Just another normal day.,neutral
+happy,Feeling great today!,happy
+fear,I am really scared.,fear
+happy,Feeling great today!,happy
+surprise,That's unbelievable!,surprise
+neutral,It's an average experience.,neutral
+fear,This is terrifying.,fear
+happy,So happy to see you!,happy
+angry,This is unacceptable!,angry
+surprise,This is amazing!,surprise
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+neutral,Just another normal day.,neutral
+happy,Best day ever!,happy
+surprise,I can't believe it!,surprise
+fear,I don't know what to do!,fear
+angry,Stop annoying me!,angry
+sad,Nothing is going right.,sad
+disgust,I can't stand the smell.,disgust
+happy,What a beautiful day!,happy
+neutral,Feeling neutral about this.,neutral
+happy,I love this!,happy
+disgust,Absolutely disgusting!,disgust
+neutral,It's an average experience.,neutral
+surprise,I am totally shocked!,surprise
+sad,I am feeling blue.,sad
+surprise,That's unbelievable!,surprise
+angry,This makes me so mad!,angry
+happy,So happy to see you!,happy
+neutral,Just another normal day.,neutral
+angry,Stop annoying me!,angry
+disgust,I feel sick looking at this.,disgust
+sad,I am feeling blue.,sad
+disgust,I can't stand the smell.,disgust
+surprise,That's unbelievable!,surprise
+happy,So happy to see you!,happy
+happy,I love this!,happy
+disgust,This is the worst thing ever.,disgust
+neutral,I am okay.,neutral
+disgust,Absolutely disgusting!,disgust
+angry,I am furious right now!,angry
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+happy,So happy to see you!,happy
+neutral,It's an average experience.,neutral
+sad,I am feeling blue.,sad
+surprise,This is amazing!,surprise
+sad,This is heartbreaking.,sad
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+disgust,This is so gross!,disgust
+disgust,This is so gross!,disgust
+angry,I can't stand this!,angry
+neutral,Nothing much to say.,sad
+neutral,I am okay.,neutral
+sad,I feel so down.,sad
+happy,Feeling great today!,happy
+sad,Nothing is going right.,sad
+neutral,Just another normal day.,neutral
+neutral,Nothing much to say.,sad
+sad,Nothing is going right.,sad
+neutral,Feeling neutral about this.,neutral
+angry,Stop annoying me!,angry
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+neutral,Just another normal day.,neutral
+fear,My heart is racing!,fear
+neutral,Nothing much to say.,sad
+disgust,I feel sick looking at this.,disgust
+sad,Nothing is going right.,sad
+angry,This is unacceptable!,angry
+sad,This is heartbreaking.,sad
+surprise,That's unbelievable!,surprise
+sad,This is heartbreaking.,sad
+neutral,It's an average experience.,neutral
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+sad,I am feeling blue.,sad
+happy,I love this!,happy
+sad,This is heartbreaking.,sad
+disgust,This is the worst thing ever.,disgust
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+angry,This is unacceptable!,angry
+happy,What a beautiful day!,happy
+disgust,Absolutely disgusting!,disgust
+neutral,I am okay.,neutral
+happy,I love this!,happy
+neutral,Feeling neutral about this.,neutral
+sad,I miss you so much.,sad
+surprise,That's unbelievable!,surprise
+happy,I love this!,happy
+angry,This makes me so mad!,angry
+sad,I miss you so much.,sad
+angry,This makes me so mad!,angry
+happy,Best day ever!,happy
+disgust,I feel sick looking at this.,disgust
+angry,I can't stand this!,angry
+surprise,"Wow, I didn't expect that!",surprise
+surprise,I can't believe it!,surprise
+happy,What a beautiful day!,happy
+sad,I feel so down.,sad
+angry,This is unacceptable!,angry
+happy,What a beautiful day!,happy
+disgust,I feel sick looking at this.,disgust
+surprise,I can't believe it!,surprise
+angry,Stop annoying me!,angry
+neutral,I am okay.,neutral
+fear,I am really scared.,fear
+happy,So happy to see you!,happy
+happy,I love this!,happy
+angry,This makes me so mad!,angry
+neutral,Nothing much to say.,sad
+happy,What a beautiful day!,happy
+surprise,This is amazing!,surprise
+fear,I am feeling anxious.,fear
+disgust,Absolutely disgusting!,disgust
+angry,This makes me so mad!,angry
+fear,I am feeling anxious.,fear
+surprise,I am totally shocked!,surprise
+disgust,This is the worst thing ever.,disgust
+disgust,I can't stand the smell.,disgust
+angry,This is unacceptable!,angry
+angry,I can't stand this!,angry
+neutral,Feeling neutral about this.,neutral
+sad,Nothing is going right.,sad
+angry,I am furious right now!,angry
+disgust,I feel sick looking at this.,disgust
+disgust,I feel sick looking at this.,disgust
+fear,This is terrifying.,fear
+angry,This is unacceptable!,angry
+neutral,It's an average experience.,neutral
+angry,This makes me so mad!,angry
+neutral,Just another normal day.,neutral
+happy,Feeling great today!,happy
+disgust,Absolutely disgusting!,disgust
+neutral,I am okay.,neutral
+surprise,This is amazing!,surprise
+disgust,Absolutely disgusting!,disgust
+neutral,It's an average experience.,neutral
+disgust,I feel sick looking at this.,disgust
+fear,I am feeling anxious.,fear
+disgust,Absolutely disgusting!,disgust
+neutral,Nothing much to say.,sad
+neutral,Feeling neutral about this.,neutral
+surprise,"Wow, I didn't expect that!",surprise
+surprise,That's unbelievable!,surprise
+fear,I don't know what to do!,fear
+disgust,Absolutely disgusting!,disgust
+fear,I am feeling anxious.,fear
+disgust,Absolutely disgusting!,disgust
+happy,Best day ever!,happy
+angry,Stop annoying me!,angry
+fear,My heart is racing!,fear
+disgust,I can't stand the smell.,disgust
+fear,I don't know what to do!,fear
+sad,This is heartbreaking.,sad
+surprise,I am totally shocked!,surprise
+angry,I can't stand this!,angry
+surprise,I am totally shocked!,surprise
+fear,I am really scared.,fear
